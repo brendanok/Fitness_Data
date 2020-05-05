@@ -134,7 +134,9 @@ Here's the results of some selected columns from the above view:
 ![pic](https://raw.githubusercontent.com/brendanok/Fitness_Data/master/images/score.png)
 
 ### Results
-So after throwing this into PowerBI, I created this interactive report that serves as a tracker. As long as things are fed into the database, the queries will update and the report will update as well.
+The table above shows the workout score achieved for each day with the criteria based on the columns in the final query. This is used to generate the dashboard. Since the query depends on the main table, as long as that's updated, the calculations and views will fall in line. Already, one thing to note is that value_weight is a big factor in the score. The ones with a value of 5 typically already have a huge number of pounds lifted generally, but it's useful in offsetting certain high pound workouts like standing calf raises. That being said, I need to think about when normalizing, to group the data by exercise only, because how fair is it to compare lbs from a body weight exercise to something like squats? 
+
+After throwing this into PowerBI, I created this interactive report that serves I guess as a lift tracker. As long as things are fed into the database, the queries will update and the report will update as well.
 ![pic](https://raw.githubusercontent.com/brendanok/Fitness_Data/master/images/powerbi.PNG)
 
 Unfortunately, I can't share the report itself since it's hosted using a work license, but click [here](https://youtu.be/eMbl2M5_ISM) for a video demo of the dashboard. 
