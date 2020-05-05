@@ -1,0 +1,2748 @@
+ID,exercise,lift_date,lb,reps,set
+1,squat,9/1/2019,135,5,1
+2,squat,9/1/2019,165,5,2
+3,squat,9/1/2019,205,5,3
+4,squat,9/1/2019,205,3,4
+5,squat,9/1/2019,135,5,5
+6,squat,9/1/2019,135,5,6
+7,leg extension,9/1/2019,90,12,1
+8,leg extension,9/1/2019,90,12,2
+9,leg extension,9/1/2019,90,12,3
+10,leg extension,9/1/2019,90,12,4
+11,leg extension,9/1/2019,70,12,5
+12,seated leg curl,9/1/2019,70,12,1
+13,seated leg curl,9/1/2019,70,12,2
+14,seated leg curl,9/1/2019,70,12,3
+15,seated leg curl,9/1/2019,70,12,4
+16,seated leg curl,9/1/2019,70,12,5
+17,calf raise,9/1/2019,240,12,1
+18,calf raise,9/1/2019,240,12,2
+19,calf raise,9/1/2019,240,12,3
+20,calf raise,9/1/2019,220,12,4
+21,calf raise,9/1/2019,220,12,5
+22,power tower leg raise,9/1/2019,0,12,1
+23,power tower leg raise,9/1/2019,0,12,2
+24,power tower leg raise,9/1/2019,0,12,3
+25,power tower leg raise,9/1/2019,0,12,4
+26,power tower leg raise,9/1/2019,0,12,5
+27,bench press,9/3/2019,95,8,1
+28,bench press,9/3/2019,135,5,2
+29,bench press,9/3/2019,135,5,3
+30,bench press,9/3/2019,145,5,4
+31,bench press,9/3/2019,155,5,5
+32,bench press,9/3/2019,135,8,6
+33,bench press,9/3/2019,135,8,7
+34,flat bench dumbbell press,9/3/2019,20,8,1
+35,flat bench dumbbell press,9/3/2019,25,8,2
+36,flat bench dumbbell press,9/3/2019,25,8,3
+37,cross cable fly,9/3/2019,10,12,1
+38,cross cable fly,9/3/2019,20,12,2
+39,cross cable fly,9/3/2019,20,12,3
+40,cross cable fly,9/3/2019,20,12,4
+41,cross cable fly,9/3/2019,20,12,5
+42,tricep pushdown,9/3/2019,70,12,1
+43,tricep pushdown,9/3/2019,70,12,2
+44,tricep pushdown,9/3/2019,70,12,3
+45,tricep pushdown,9/3/2019,70,12,4
+46,tricep pushdown,9/3/2019,70,12,5
+47,seated cable row,9/4/2019,75,12,1
+48,seated cable row,9/4/2019,75,12,2
+49,seated cable row,9/4/2019,90,12,3
+50,seated cable row,9/4/2019,90,12,4
+51,seated cable row,9/4/2019,90,12,5
+52,t bar row with handle,9/4/2019,70,12,1
+53,t bar row with handle,9/4/2019,80,12,2
+54,t bar row with handle,9/4/2019,80,12,3
+55,t bar row with handle,9/4/2019,80,12,4
+56,t bar row with handle,9/4/2019,80,12,5
+57,dumbbell bicep curl,9/4/2019,30,12,1
+58,dumbbell bicep curl,9/4/2019,30,10,2
+59,dumbbell bicep curl,9/4/2019,25,10,3
+60,dumbbell bicep curl,9/4/2019,20,12,4
+61,dumbbell bicep curl,9/4/2019,20,12,5
+62,crossbody hammer curl,9/4/2019,20,12,1
+63,crossbody hammer curl,9/4/2019,20,12,2
+64,crossbody hammer curl,9/4/2019,20,12,3
+65,crossbody hammer curl,9/4/2019,20,12,4
+66,crossbody hammer curl,9/4/2019,20,12,5
+67,russian twist,9/4/2019,10,12,1
+68,russian twist,9/4/2019,10,12,2
+69,russian twist,9/4/2019,10,12,3
+70,russian twist,9/4/2019,10,12,4
+71,russian twist,9/4/2019,10,12,5
+72,power tower leg raise,9/4/2019,0,12,1
+73,power tower leg raise,9/4/2019,0,12,2
+74,power tower leg raise,9/4/2019,0,12,3
+75,power tower leg raise,9/4/2019,0,12,4
+76,power tower leg raise,9/4/2019,0,12,5
+77,squat,9/5/2019,135,5,1
+78,squat,9/5/2019,155,5,2
+79,squat,9/5/2019,155,5,3
+80,squat,9/5/2019,155,5,4
+81,squat,9/5/2019,135,8,5
+82,squat,9/5/2019,135,8,6
+83,squat,9/5/2019,135,8,7
+84,seated leg curl,9/5/2019,60,12,1
+85,seated leg curl,9/5/2019,75,12,2
+86,seated leg curl,9/5/2019,60,12,3
+87,seated leg curl,9/5/2019,60,12,4
+88,seated leg curl,9/5/2019,60,12,5
+89,leg extension,9/5/2019,90,12,1
+90,leg extension,9/5/2019,90,12,2
+91,leg extension,9/5/2019,70,12,3
+92,leg extension,9/5/2019,70,12,4
+93,leg extension,9/5/2019,70,12,5
+94,calf raise,9/5/2019,240,12,1
+95,calf raise,9/5/2019,240,12,2
+96,calf raise,9/5/2019,240,12,3
+97,calf raise,9/5/2019,240,12,4
+98,calf raise,9/5/2019,240,12,5
+99,power tower leg raise,9/5/2019,0,12,1
+100,power tower leg raise,9/5/2019,0,12,2
+101,power tower leg raise,9/5/2019,0,12,3
+102,power tower leg raise,9/5/2019,0,12,4
+103,power tower leg raise,9/5/2019,0,12,5
+104,squat,9/9/2019,115,5,1
+105,squat,9/9/2019,135,8,2
+106,squat,9/9/2019,185,5,3
+107,squat,9/9/2019,225,3,4
+108,squat,9/9/2019,225,2,5
+109,squat,9/9/2019,135,8,6
+110,squat,9/9/2019,135,8,7
+111,leg extension,9/9/2019,75,12,1
+112,leg extension,9/9/2019,75,12,2
+113,leg extension,9/9/2019,75,12,3
+114,leg extension,9/9/2019,75,12,4
+115,leg extension,9/9/2019,75,12,5
+116,prone leg curl,9/9/2019,50,12,1
+117,prone leg curl,9/9/2019,50,12,2
+118,prone leg curl,9/9/2019,50,12,3
+119,prone leg curl,9/9/2019,50,12,4
+120,prone leg curl,9/9/2019,50,12,5
+121,calf raise,9/9/2019,240,12,1
+122,calf raise,9/9/2019,240,12,2
+123,calf raise,9/9/2019,240,12,3
+124,calf raise,9/9/2019,240,12,4
+125,calf raise,9/9/2019,240,12,5
+126,deadlift,9/10/2019,95,5,1
+127,deadlift,9/10/2019,115,5,2
+128,deadlift,9/10/2019,115,5,3
+129,deadlift,9/10/2019,135,8,4
+130,deadlift,9/10/2019,135,5,5
+131,deadlift,9/10/2019,135,5,6
+132,deadlift,9/10/2019,135,5,7
+133,seated cable row,9/10/2019,90,12,1
+134,seated cable row,9/10/2019,90,12,2
+135,seated cable row,9/10/2019,90,12,3
+136,dumbbell bicep curl,9/10/2019,25,12,1
+137,dumbbell bicep curl,9/10/2019,20,12,2
+138,dumbbell bicep curl,9/10/2019,20,12,3
+139,dumbbell bicep curl,9/10/2019,20,12,4
+140,dumbbell bicep curl,9/10/2019,20,12,5
+141,crossbody hammer curl,9/10/2019,20,12,1
+142,crossbody hammer curl,9/10/2019,20,12,2
+143,crossbody hammer curl,9/10/2019,20,12,3
+144,bicep ez curl,9/10/2019,45,15,1
+145,bicep ez curl,9/10/2019,45,15,2
+146,bicep ez curl,9/10/2019,45,15,3
+147,squat,9/12/2019,115,5,1
+148,squat,9/12/2019,135,8,2
+149,squat,9/12/2019,135,8,3
+150,squat,9/12/2019,155,8,4
+151,squat,9/12/2019,155,8,5
+152,squat,9/12/2019,135,8,6
+153,squat,9/12/2019,135,8,7
+154,seated leg curl,9/12/2019,50,12,1
+155,seated leg curl,9/12/2019,50,12,2
+156,seated leg curl,9/12/2019,50,12,3
+157,seated leg curl,9/12/2019,50,12,4
+158,seated leg curl,9/12/2019,50,12,5
+159,leg extension,9/12/2019,90,12,1
+160,leg extension,9/12/2019,70,12,2
+161,leg extension,9/12/2019,70,12,3
+162,leg extension,9/12/2019,70,12,4
+163,leg extension,9/12/2019,70,12,5
+164,calf raise,9/12/2019,240,12,1
+165,calf raise,9/12/2019,240,12,2
+166,calf raise,9/12/2019,240,12,3
+167,calf raise,9/12/2019,240,12,4
+168,calf raise,9/12/2019,240,12,5
+169,russian twist,9/12/2019,10,12,1
+170,russian twist,9/12/2019,10,12,2
+171,russian twist,9/12/2019,10,12,3
+172,russian twist,9/12/2019,10,12,4
+173,russian twist,9/12/2019,10,12,5
+174,deadlift,9/13/2019,115,8,1
+175,deadlift,9/13/2019,135,5,2
+176,deadlift,9/13/2019,155,5,3
+177,deadlift,9/13/2019,175,5,4
+178,deadlift,9/13/2019,185,5,5
+179,deadlift,9/13/2019,135,8,6
+180,deadlift,9/13/2019,135,5,7
+181,bent over dumbbell row,9/13/2019,25,12,1
+182,bent over dumbbell row,9/13/2019,25,12,2
+183,bent over dumbbell row,9/13/2019,30,12,3
+184,bent over dumbbell row,9/13/2019,30,12,4
+185,bent over dumbbell row,9/13/2019,30,12,5
+186,tricep pushdown,9/13/2019,50,12,1
+187,tricep pushdown,9/13/2019,60,12,2
+188,tricep pushdown,9/13/2019,70,12,3
+189,tricep pushdown,9/13/2019,70,12,4
+190,tricep pushdown,9/13/2019,70,12,5
+191,dumbbell bicep curl,9/13/2019,25,12,1
+192,dumbbell bicep curl,9/13/2019,25,12,2
+193,dumbbell bicep curl,9/13/2019,20,12,3
+194,dumbbell bicep curl,9/13/2019,20,12,4
+195,dumbbell bicep curl,9/13/2019,20,12,5
+196,bicep ez curl,9/13/2019,55,12,1
+197,bicep ez curl,9/13/2019,45,15,2
+198,bicep ez curl,9/13/2019,45,15,3
+199,bicep ez curl,9/13/2019,45,15,4
+200,bicep ez curl,9/13/2019,50,12,5
+201,crossbody hammer curl,9/13/2019,20,12,1
+202,crossbody hammer curl,9/13/2019,20,12,2
+203,crossbody hammer curl,9/13/2019,20,12,3
+204,crossbody hammer curl,9/13/2019,20,12,4
+205,crossbody hammer curl,9/13/2019,20,12,5
+206,squat,9/15/2019,115,5,1
+207,squat,9/15/2019,165,5,2
+208,squat,9/15/2019,185,5,3
+209,squat,9/15/2019,225,3,4
+210,squat,9/15/2019,235,3,5
+211,squat,9/15/2019,135,8,6
+212,squat,9/15/2019,135,8,7
+213,prone leg curl,9/15/2019,50,12,1
+214,prone leg curl,9/15/2019,50,12,2
+215,prone leg curl,9/15/2019,50,12,3
+216,prone leg curl,9/15/2019,50,12,4
+217,prone leg curl,9/15/2019,50,12,5
+218,leg extension,9/15/2019,90,12,1
+219,leg extension,9/15/2019,90,12,2
+220,leg extension,9/15/2019,90,12,3
+221,leg extension,9/15/2019,90,12,4
+222,leg extension,9/15/2019,70,12,5
+223,seated calf raise,9/15/2019,45,12,1
+224,seated calf raise,9/15/2019,45,12,2
+225,seated calf raise,9/15/2019,65,12,3
+226,seated calf raise,9/15/2019,65,12,4
+227,seated calf raise,9/15/2019,65,12,5
+228,russian twist,9/15/2019,12,12,1
+229,russian twist,9/15/2019,12,12,2
+230,russian twist,9/15/2019,12,12,3
+231,russian twist,9/15/2019,12,12,4
+232,russian twist,9/15/2019,12,12,5
+233,lying leg raise,9/15/2019,0,12,1
+234,lying leg raise,9/15/2019,0,12,2
+235,lying leg raise,9/15/2019,0,12,3
+236,lying leg raise,9/15/2019,0,12,4
+237,lying leg raise,9/15/2019,0,12,5
+238,deadlift,9/16/2019,115,8,1
+239,deadlift,9/16/2019,135,8,2
+240,deadlift,9/16/2019,155,8,3
+241,deadlift,9/16/2019,155,8,4
+242,deadlift,9/16/2019,155,8,5
+243,deadlift,9/16/2019,135,8,6
+244,deadlift,9/16/2019,135,8,7
+245,bent over dumbbell row,9/16/2019,30,12,1
+246,bent over dumbbell row,9/16/2019,30,12,2
+247,bent over dumbbell row,9/16/2019,30,12,3
+248,bent over dumbbell row,9/16/2019,30,12,4
+249,bent over dumbbell row,9/16/2019,30,12,5
+250,dumbbell bicep curl,9/16/2019,25,12,1
+251,dumbbell bicep curl,9/16/2019,20,12,2
+252,dumbbell bicep curl,9/16/2019,20,12,3
+253,dumbbell bicep curl,9/16/2019,20,12,4
+254,dumbbell bicep curl,9/16/2019,20,12,5
+255,dumbbell bicep curl,9/16/2019,20,12,6
+256,crossbody hammer curl,9/16/2019,20,12,1
+257,crossbody hammer curl,9/16/2019,20,12,2
+258,crossbody hammer curl,9/16/2019,20,12,3
+259,crossbody hammer curl,9/16/2019,20,12,4
+260,crossbody hammer curl,9/16/2019,20,12,5
+261,arm curl machine,9/16/2019,50,12,1
+262,arm curl machine,9/16/2019,40,10,2
+263,arm curl machine,9/16/2019,40,12,3
+264,arm curl machine,9/16/2019,40,12,4
+265,arm curl machine,9/16/2019,40,12,5
+266,squat,9/18/2019,115,8,1
+267,squat,9/18/2019,135,8,2
+268,squat,9/18/2019,155,5,3
+269,squat,9/18/2019,155,5,4
+270,squat,9/18/2019,135,8,5
+271,leg press,9/18/2019,180,12,1
+272,leg press,9/18/2019,180,12,2
+273,leg press,9/18/2019,180,12,3
+274,leg extension,9/18/2019,90,12,1
+275,leg extension,9/18/2019,70,12,2
+276,leg extension,9/18/2019,70,12,3
+277,seated leg curl,9/18/2019,50,12,1
+278,seated leg curl,9/18/2019,50,12,2
+279,seated leg curl,9/18/2019,50,12,3
+280,seated calf raise,9/18/2019,50,12,1
+281,seated calf raise,9/18/2019,50,12,2
+282,seated calf raise,9/18/2019,50,12,3
+283,calf raise,9/18/2019,240,12,1
+284,calf raise,9/18/2019,240,12,2
+285,calf raise,9/18/2019,240,12,3
+286,lying leg raise,9/18/2019,0,12,1
+287,lying leg raise,9/18/2019,0,12,2
+288,lying leg raise,9/18/2019,0,12,3
+289,lying leg raise,9/18/2019,0,12,4
+290,lying leg raise,9/18/2019,0,12,5
+291,bench press,9/19/2019,95,8,1
+292,bench press,9/19/2019,115,8,2
+293,bench press,9/19/2019,135,5,3
+294,bench press,9/19/2019,135,8,4
+295,bench press,9/19/2019,135,5,5
+296,bench press,9/19/2019,115,8,6
+297,bench press,9/19/2019,95,8,7
+298,incline dumbbell press,9/19/2019,25,8,1
+299,incline dumbbell press,9/19/2019,25,8,2
+300,incline dumbbell press,9/19/2019,25,8,3
+301,cross cable fly,9/19/2019,20,12,1
+302,cross cable fly,9/19/2019,20,12,2
+303,cross cable fly,9/19/2019,10,12,3
+304,cross cable fly,9/19/2019,10,12,4
+305,cross cable fly,9/19/2019,10,12,5
+306,chest press machine,9/19/2019,60,10,1
+307,chest press machine,9/19/2019,60,10,2
+308,chest press machine,9/19/2019,40,10,3
+309,isolated tricep pushdown,9/19/2019,30,10,1
+310,isolated tricep pushdown,9/19/2019,30,12,2
+311,isolated tricep pushdown,9/19/2019,30,10,3
+312,isolated tricep pushdown,9/19/2019,20,10,4
+313,isolated tricep pushdown,9/19/2019,20,10,5
+314,lying leg raise,9/19/2019,0,12,1
+315,lying leg raise,9/19/2019,0,12,2
+316,lying leg raise,9/19/2019,0,12,3
+317,lying leg raise,9/19/2019,0,12,4
+318,lying leg raise,9/19/2019,0,12,5
+319,deadlift,9/22/2019,115,8,1
+320,deadlift,9/22/2019,135,5,2
+321,deadlift,9/22/2019,135,8,3
+322,deadlift,9/22/2019,135,5,4
+323,deadlift,9/22/2019,135,8,5
+324,deadlift,9/22/2019,135,5,6
+325,deadlift,9/22/2019,115,8,7
+326,seated cable row,9/22/2019,90,12,1
+327,seated cable row,9/22/2019,90,12,2
+328,seated cable row,9/22/2019,75,12,3
+329,seated cable row,9/22/2019,75,12,4
+330,seated cable row,9/22/2019,75,12,5
+331,dumbbell bicep curl,9/22/2019,20,12,1
+332,dumbbell bicep curl,9/22/2019,20,12,2
+333,dumbbell bicep curl,9/22/2019,20,12,3
+334,dumbbell bicep curl,9/22/2019,20,12,4
+335,dumbbell bicep curl,9/22/2019,20,12,5
+336,crossbody hammer curl,9/22/2019,20,12,1
+337,crossbody hammer curl,9/22/2019,20,12,2
+338,crossbody hammer curl,9/22/2019,20,12,3
+339,crossbody hammer curl,9/22/2019,20,12,4
+340,crossbody hammer curl,9/22/2019,20,12,5
+341,ab roller,9/22/2019,0,12,1
+342,ab roller,9/22/2019,0,12,2
+343,ab roller,9/22/2019,0,12,3
+344,ab roller,9/22/2019,0,12,4
+345,ab roller,9/22/2019,0,12,5
+346,flutter kick,9/22/2019,0,12,1
+347,flutter kick,9/22/2019,0,12,2
+348,flutter kick,9/22/2019,0,12,3
+349,flutter kick,9/22/2019,0,12,4
+350,flutter kick,9/22/2019,0,12,5
+351,squat,9/23/2019,135,5,1
+352,squat,9/23/2019,165,5,2
+353,squat,9/23/2019,205,3,3
+354,squat,9/23/2019,235,2,4
+355,squat,9/23/2019,135,8,5
+356,squat,9/23/2019,135,8,6
+357,leg extension,9/23/2019,90,12,1
+358,leg extension,9/23/2019,90,12,2
+359,leg extension,9/23/2019,90,12,3
+360,leg extension,9/23/2019,90,12,4
+361,leg extension,9/23/2019,90,12,5
+362,prone leg curl,9/23/2019,50,12,1
+363,prone leg curl,9/23/2019,40,12,2
+364,prone leg curl,9/23/2019,40,12,3
+365,prone leg curl,9/23/2019,40,12,4
+366,prone leg curl,9/23/2019,40,12,5
+367,calf raise,9/23/2019,220,12,1
+368,calf raise,9/23/2019,240,12,2
+369,calf raise,9/23/2019,240,12,3
+370,calf raise,9/23/2019,240,12,4
+371,calf raise,9/23/2019,240,12,5
+372,bench press,9/24/2019,95,8,1
+373,bench press,9/24/2019,135,5,2
+374,bench press,9/24/2019,135,5,3
+375,bench press,9/24/2019,165,3,4
+376,bench press,9/24/2019,165,3,5
+377,bench press,9/24/2019,135,5,6
+378,bench press,9/24/2019,135,5,7
+379,flat bench dumbbell press,9/24/2019,25,12,1
+380,flat bench dumbbell press,9/24/2019,25,12,2
+381,flat bench dumbbell press,9/24/2019,25,12,3
+382,cross cable fly,9/24/2019,10,12,1
+383,cross cable fly,9/24/2019,20,12,2
+384,cross cable fly,9/24/2019,20,12,3
+385,cross cable fly,9/24/2019,20,12,4
+386,cross cable fly,9/24/2019,20,12,5
+387,tricep pushdown,9/24/2019,60,12,1
+388,tricep pushdown,9/24/2019,60,12,2
+389,tricep pushdown,9/24/2019,60,12,3
+390,tricep pushdown,9/24/2019,60,12,4
+391,tricep pushdown,9/24/2019,60,12,5
+392,deadlift,9/26/2019,135,5,1
+393,deadlift,9/26/2019,185,5,2
+394,deadlift,9/26/2019,225,1,3
+395,deadlift,9/26/2019,185,3,4
+396,deadlift,9/26/2019,135,5,5
+397,deadlift,9/26/2019,135,5,6
+398,lateral pulldown,9/26/2019,75,12,1
+399,lateral pulldown,9/26/2019,90,12,2
+400,lateral pulldown,9/26/2019,75,12,3
+401,lateral pulldown,9/26/2019,75,12,4
+402,lateral pulldown,9/26/2019,75,12,5
+403,lateral pulldown,9/26/2019,75,12,6
+404,dumbbell bicep curl,9/26/2019,20,12,1
+405,dumbbell bicep curl,9/26/2019,20,12,2
+406,dumbbell bicep curl,9/26/2019,20,12,3
+407,dumbbell bicep curl,9/26/2019,25,10,4
+408,dumbbell bicep curl,9/26/2019,25,12,5
+409,crossbody hammer curl,9/26/2019,20,12,1
+410,crossbody hammer curl,9/26/2019,20,12,2
+411,crossbody hammer curl,9/26/2019,20,12,3
+412,crossbody hammer curl,9/26/2019,20,12,4
+413,crossbody hammer curl,9/26/2019,20,12,5
+414,flutter kick,9/26/2019,0,25,1
+415,flutter kick,9/26/2019,0,25,2
+416,flutter kick,9/26/2019,0,25,3
+417,flutter kick,9/26/2019,0,25,4
+418,flutter kick,9/26/2019,0,25,5
+419,ab roller,9/26/2019,0,12,1
+420,ab roller,9/26/2019,0,12,2
+421,ab roller,9/26/2019,0,12,3
+422,ab roller,9/26/2019,0,12,4
+423,ab roller,9/26/2019,0,12,5
+424,squat,9/27/2019,115,5,1
+425,squat,9/27/2019,135,5,2
+426,squat,9/27/2019,135,8,3
+427,squat,9/27/2019,135,8,4
+428,squat,9/27/2019,135,8,5
+429,squat,9/27/2019,135,8,6
+430,leg extension,9/27/2019,90,12,1
+431,leg extension,9/27/2019,90,12,2
+432,leg extension,9/27/2019,90,12,3
+433,leg extension,9/27/2019,70,12,4
+434,leg extension,9/27/2019,70,12,5
+435,prone leg curl,9/27/2019,45,12,1
+436,prone leg curl,9/27/2019,55,12,2
+437,prone leg curl,9/27/2019,55,12,3
+438,prone leg curl,9/27/2019,55,12,4
+439,prone leg curl,9/27/2019,55,12,5
+440,calf raise,9/27/2019,240,12,1
+441,calf raise,9/27/2019,240,12,2
+442,calf raise,9/27/2019,240,12,3
+443,calf raise,9/27/2019,240,12,4
+444,calf raise,9/27/2019,240,12,5
+445,bench press,9/29/2019,95,8,1
+446,bench press,9/29/2019,135,5,2
+447,bench press,9/29/2019,185,3,3
+448,bench press,9/29/2019,200,1,4
+449,bench press,9/29/2019,135,5,5
+450,bench press,9/29/2019,136,5,6
+451,incline bench press,9/29/2019,95,5,1
+452,incline bench press,9/29/2019,95,8,2
+453,incline bench press,9/29/2019,115,5,3
+454,incline bench press,9/29/2019,115,5,4
+455,incline bench press,9/29/2019,135,3,5
+456,cross cable fly,9/29/2019,20,12,1
+457,cross cable fly,9/29/2019,20,12,2
+458,cross cable fly,9/29/2019,20,12,3
+459,cross cable fly,9/29/2019,20,12,4
+460,cross cable fly,9/29/2019,20,12,5
+461,tricep pushdown,9/29/2019,60,12,1
+462,tricep pushdown,9/29/2019,60,12,2
+463,tricep pushdown,9/29/2019,60,12,3
+464,tricep pushdown,9/29/2019,60,12,4
+465,tricep pushdown,9/29/2019,50,12,5
+466,flutter kick,9/29/2019,0,25,1
+467,flutter kick,9/29/2019,0,25,2
+468,flutter kick,9/29/2019,0,25,3
+469,flutter kick,9/29/2019,0,25,4
+470,flutter kick,9/29/2019,0,25,5
+471,flutter kick,9/29/2019,0,25,6
+472,ab roller,9/29/2019,0,12,1
+473,ab roller,9/29/2019,0,12,2
+474,ab roller,9/29/2019,0,12,3
+475,ab roller,9/29/2019,0,12,4
+476,ab roller,9/29/2019,0,12,5
+477,deadlift,9/30/2019,95,8,1
+478,deadlift,9/30/2019,135,5,2
+479,deadlift,9/30/2019,135,5,3
+480,deadlift,9/30/2019,135,5,4
+481,deadlift,9/30/2019,135,8,5
+482,deadlift,9/30/2019,135,5,6
+483,lateral pulldown,9/30/2019,75,12,1
+484,lateral pulldown,9/30/2019,75,12,2
+485,lateral pulldown,9/30/2019,75,12,3
+486,lateral pulldown,9/30/2019,75,12,4
+487,lateral pulldown,9/30/2019,75,12,5
+488,close grip lateral pulldown,9/30/2019,75,12,1
+489,close grip lateral pulldown,9/30/2019,75,12,2
+490,close grip lateral pulldown,9/30/2019,75,12,3
+491,dumbbell bicep curl,9/30/2019,20,12,1
+492,dumbbell bicep curl,9/30/2019,20,12,2
+493,dumbbell bicep curl,9/30/2019,20,12,3
+494,dumbbell bicep curl,9/30/2019,20,12,4
+495,dumbbell bicep curl,9/30/2019,20,12,5
+496,crossbody hammer curl,9/30/2019,20,12,1
+497,crossbody hammer curl,9/30/2019,20,12,2
+498,crossbody hammer curl,9/30/2019,20,12,3
+499,crossbody hammer curl,9/30/2019,20,12,4
+500,crossbody hammer curl,9/30/2019,20,12,5
+501,squat,10/1/2019,95,8,1
+502,squat,10/1/2019,135,5,2
+503,squat,10/1/2019,175,5,3
+504,squat,10/1/2019,185,5,4
+505,squat,10/1/2019,225,3,5
+506,squat,10/1/2019,205,3,6
+507,squat,10/1/2019,135,8,7
+508,prone leg curl,10/1/2019,50,12,1
+509,prone leg curl,10/1/2019,50,12,2
+510,prone leg curl,10/1/2019,50,12,3
+511,prone leg curl,10/1/2019,50,12,4
+512,prone leg curl,10/1/2019,50,12,5
+513,leg extension,10/1/2019,70,12,1
+514,leg extension,10/1/2019,90,12,2
+515,leg extension,10/1/2019,90,12,3
+516,leg extension,10/1/2019,90,12,4
+517,leg extension,10/1/2019,90,12,5
+518,calf raise,10/1/2019,240,12,1
+519,calf raise,10/1/2019,240,12,2
+520,calf raise,10/1/2019,240,12,3
+521,calf raise,10/1/2019,240,12,4
+522,calf raise,10/1/2019,240,12,5
+523,flutter kick,10/1/2019,0,50,1
+524,flutter kick,10/1/2019,0,50,2
+525,flutter kick,10/1/2019,0,50,3
+526,flutter kick,10/1/2019,0,50,4
+527,flutter kick,10/1/2019,0,50,5
+528,ab roller,10/1/2019,0,12,1
+529,ab roller,10/1/2019,0,12,2
+530,ab roller,10/1/2019,0,12,3
+531,ab roller,10/1/2019,0,12,4
+532,ab roller,10/1/2019,0,12,5
+533,bench press,10/2/2019,95,5,1
+534,bench press,10/2/2019,135,5,2
+535,bench press,10/2/2019,135,5,3
+536,bench press,10/2/2019,135,5,4
+537,bench press,10/2/2019,135,5,5
+538,bench press,10/2/2019,135,5,6
+539,bench press,10/2/2019,135,5,7
+540,flat bench dumbbell press,10/2/2019,25,8,1
+541,flat bench dumbbell press,10/2/2019,25,8,2
+542,flat bench dumbbell press,10/2/2019,30,8,3
+543,flat bench dumbbell press,10/2/2019,30,8,4
+544,flat bench dumbbell press,10/2/2019,30,8,5
+545,cross cable fly,10/2/2019,20,12,1
+546,cross cable fly,10/2/2019,20,12,2
+547,cross cable fly,10/2/2019,20,12,3
+548,cross cable fly,10/2/2019,20,12,4
+549,cross cable fly,10/2/2019,20,12,5
+550,tricep pushdown,10/2/2019,60,12,1
+551,tricep pushdown,10/2/2019,60,12,2
+552,tricep pushdown,10/2/2019,60,12,3
+553,tricep pushdown,10/2/2019,60,12,4
+554,tricep pushdown,10/2/2019,60,12,5
+555,deadlift,10/3/2019,165,5,1
+556,deadlift,10/3/2019,165,5,2
+557,deadlift,10/3/2019,165,5,3
+558,deadlift,10/3/2019,165,5,4
+559,deadlift,10/3/2019,165,5,5
+560,lateral pulldown,10/3/2019,90,12,1
+561,lateral pulldown,10/3/2019,90,12,2
+562,lateral pulldown,10/3/2019,75,12,3
+563,lateral pulldown,10/3/2019,75,12,4
+564,lateral pulldown,10/3/2019,75,12,5
+565,dumbbell bicep curl,10/3/2019,25,12,1
+566,dumbbell bicep curl,10/3/2019,25,12,2
+567,dumbbell bicep curl,10/3/2019,20,12,3
+568,dumbbell bicep curl,10/3/2019,20,12,4
+569,dumbbell bicep curl,10/3/2019,20,12,5
+570,crossbody hammer curl,10/3/2019,20,12,1
+571,crossbody hammer curl,10/3/2019,20,12,2
+572,crossbody hammer curl,10/3/2019,20,12,3
+573,bicep ez curl,10/3/2019,55,12,1
+574,bicep ez curl,10/3/2019,45,12,2
+575,bicep ez curl,10/3/2019,45,15,3
+576,lateral raise,10/3/2019,20,12,1
+577,lateral raise,10/3/2019,15,12,2
+578,lateral raise,10/3/2019,15,12,3
+579,lateral raise,10/3/2019,15,12,4
+580,lateral raise,10/3/2019,15,12,5
+581,squat,10/4/2019,115,5,1
+582,squat,10/4/2019,135,8,2
+583,squat,10/4/2019,155,8,3
+584,squat,10/4/2019,155,5,4
+585,squat,10/4/2019,135,5,5
+586,squat,10/4/2019,135,5,6
+587,prone leg curl,10/4/2019,55,12,1
+588,prone leg curl,10/4/2019,55,12,2
+589,prone leg curl,10/4/2019,55,12,3
+590,prone leg curl,10/4/2019,55,12,4
+591,prone leg curl,10/4/2019,55,12,5
+592,leg extension,10/4/2019,90,12,1
+593,leg extension,10/4/2019,90,12,2
+594,leg extension,10/4/2019,90,12,3
+595,leg extension,10/4/2019,90,12,4
+596,leg extension,10/4/2019,90,12,5
+597,calf raise,10/4/2019,240,12,1
+598,calf raise,10/4/2019,240,12,2
+599,calf raise,10/4/2019,240,12,3
+600,calf raise,10/4/2019,240,12,4
+601,calf raise,10/4/2019,240,12,5
+602,bench press,10/6/2019,115,8,1
+603,bench press,10/6/2019,135,5,2
+604,bench press,10/6/2019,155,5,3
+605,bench press,10/6/2019,145,5,4
+606,bench press,10/6/2019,145,5,5
+607,bench press,10/6/2019,135,5,6
+608,flat bench dumbbell press,10/6/2019,30,8,1
+609,flat bench dumbbell press,10/6/2019,30,8,2
+610,flat bench dumbbell press,10/6/2019,30,8,3
+611,flat bench dumbbell press,10/6/2019,30,8,4
+612,flat bench dumbbell press,10/6/2019,30,8,5
+613,cross cable fly,10/6/2019,20,12,1
+614,cross cable fly,10/6/2019,20,12,2
+615,cross cable fly,10/6/2019,20,12,3
+616,cross cable fly,10/6/2019,20,12,4
+617,cross cable fly,10/6/2019,20,12,5
+618,tricep pushdown,10/6/2019,60,12,1
+619,tricep pushdown,10/6/2019,60,12,2
+620,tricep pushdown,10/6/2019,60,12,3
+621,tricep pushdown,10/6/2019,60,12,4
+622,tricep pushdown,10/6/2019,60,12,5
+623,ab roller,10/6/2019,0,12,1
+624,ab roller,10/6/2019,0,12,2
+625,ab roller,10/6/2019,0,12,3
+626,ab roller,10/6/2019,0,12,4
+627,ab roller,10/6/2019,0,12,5
+628,flutter kick,10/6/2019,0,25,1
+629,flutter kick,10/6/2019,0,25,2
+630,flutter kick,10/6/2019,0,25,3
+631,flutter kick,10/6/2019,0,25,4
+632,flutter kick,10/6/2019,0,25,5
+633,deadlift,10/7/2019,185,5,1
+634,deadlift,10/7/2019,185,5,2
+635,deadlift,10/7/2019,185,5,3
+636,deadlift,10/7/2019,185,5,4
+637,deadlift,10/7/2019,185,5,5
+638,lateral pulldown,10/7/2019,90,12,1
+639,lateral pulldown,10/7/2019,75,12,2
+640,lateral pulldown,10/7/2019,75,12,3
+641,lateral pulldown,10/7/2019,75,12,4
+642,lateral pulldown,10/7/2019,90,12,5
+643,dumbbell bicep curl,10/7/2019,20,12,1
+644,dumbbell bicep curl,10/7/2019,20,12,2
+645,dumbbell bicep curl,10/7/2019,20,12,3
+646,dumbbell bicep curl,10/7/2019,20,12,4
+647,dumbbell bicep curl,10/7/2019,20,12,5
+648,crossbody hammer curl,10/7/2019,20,12,1
+649,crossbody hammer curl,10/7/2019,20,12,2
+650,crossbody hammer curl,10/7/2019,20,12,3
+651,crossbody hammer curl,10/7/2019,20,12,4
+652,crossbody hammer curl,10/7/2019,20,12,5
+653,lateral raise,10/7/2019,20,12,1
+654,lateral raise,10/7/2019,20,12,2
+655,lateral raise,10/7/2019,20,12,3
+656,lateral raise,10/7/2019,20,12,4
+657,lateral raise,10/7/2019,20,12,5
+658,squat,10/8/2019,195,5,1
+659,squat,10/8/2019,195,5,2
+660,squat,10/8/2019,195,5,3
+661,squat,10/8/2019,195,5,4
+662,squat,10/8/2019,195,5,5
+663,leg extension,10/8/2019,90,12,1
+664,leg extension,10/8/2019,90,12,2
+665,leg extension,10/8/2019,90,12,3
+666,prone leg curl,10/8/2019,50,12,1
+667,prone leg curl,10/8/2019,50,12,2
+668,prone leg curl,10/8/2019,50,12,3
+669,calf raise,10/8/2019,240,12,1
+670,calf raise,10/8/2019,240,12,2
+671,calf raise,10/8/2019,240,12,3
+672,calf raise,10/8/2019,240,12,4
+673,calf raise,10/8/2019,240,12,5
+674,bench press,10/9/2019,135,5,1
+675,bench press,10/9/2019,165,5,2
+676,bench press,10/9/2019,165,5,3
+677,bench press,10/9/2019,165,5,4
+678,bench press,10/9/2019,165,5,5
+679,bench press,10/9/2019,165,5,6
+680,cross cable fly,10/9/2019,30,12,1
+681,cross cable fly,10/9/2019,30,12,2
+682,cross cable fly,10/9/2019,30,12,3
+683,cross cable fly,10/9/2019,30,12,4
+684,cross cable fly,10/9/2019,30,12,5
+685,tricep pushdown,10/9/2019,60,12,1
+686,tricep pushdown,10/9/2019,60,12,2
+687,tricep pushdown,10/9/2019,60,12,3
+688,tricep pushdown,10/9/2019,60,12,4
+689,tricep pushdown,10/9/2019,60,12,5
+690,ab roller,10/9/2019,0,12,1
+691,ab roller,10/9/2019,0,12,2
+692,ab roller,10/9/2019,0,12,3
+693,ab roller,10/9/2019,0,12,4
+694,ab roller,10/9/2019,0,12,5
+695,hanging leg raise,10/9/2019,0,5,1
+696,hanging leg raise,10/9/2019,0,5,2
+697,hanging leg raise,10/9/2019,0,5,3
+698,deadlift,10/11/2019,95,5,1
+699,deadlift,10/11/2019,195,5,2
+700,deadlift,10/11/2019,195,5,3
+701,deadlift,10/11/2019,195,5,4
+702,deadlift,10/11/2019,195,5,5
+703,deadlift,10/11/2019,195,5,6
+704,lateral pulldown,10/11/2019,90,12,1
+705,lateral pulldown,10/11/2019,90,12,2
+706,lateral pulldown,10/11/2019,90,12,3
+707,lateral pulldown,10/11/2019,90,12,4
+708,lateral pulldown,10/11/2019,90,12,5
+709,dumbbell bicep curl,10/11/2019,20,12,1
+710,dumbbell bicep curl,10/11/2019,20,12,2
+711,dumbbell bicep curl,10/11/2019,20,12,3
+712,dumbbell bicep curl,10/11/2019,20,12,4
+713,dumbbell bicep curl,10/11/2019,20,12,5
+714,crossbody hammer curl,10/11/2019,20,12,1
+715,crossbody hammer curl,10/11/2019,20,12,2
+716,crossbody hammer curl,10/11/2019,20,12,3
+717,squat,10/12/2019,205,5,1
+718,squat,10/12/2019,205,5,2
+719,squat,10/12/2019,205,5,3
+720,squat,10/12/2019,205,5,4
+721,squat,10/12/2019,205,5,5
+722,squat,10/12/2019,135,8,6
+723,squat,10/12/2019,135,8,7
+724,squat,10/12/2019,135,8,8
+725,calf raise,10/12/2019,240,12,1
+726,calf raise,10/12/2019,240,12,2
+727,calf raise,10/12/2019,240,12,3
+728,calf raise,10/12/2019,240,12,4
+729,calf raise,10/12/2019,240,12,5
+730,lateral raise,10/12/2019,20,12,1
+731,lateral raise,10/12/2019,15,12,2
+732,lateral raise,10/12/2019,15,12,3
+733,lateral raise,10/12/2019,15,12,4
+734,lateral raise,10/12/2019,15,12,5
+735,bench press,10/14/2019,135,5,1
+736,bench press,10/14/2019,135,5,2
+737,bench press,10/14/2019,185,3,3
+738,bench press,10/14/2019,205,1,4
+739,bench press,10/14/2019,205,1,5
+740,bench press,10/14/2019,210,1,6
+741,bench press,10/14/2019,185,3,7
+742,bench press,10/14/2019,165,5,8
+743,bench press,10/14/2019,135,5,9
+744,cross cable fly,10/14/2019,30,12,1
+745,cross cable fly,10/14/2019,30,12,2
+746,cross cable fly,10/14/2019,20,12,3
+747,cross cable fly,10/14/2019,20,12,4
+748,cross cable fly,10/14/2019,20,12,5
+749,tricep pushdown,10/14/2019,60,12,1
+750,tricep pushdown,10/14/2019,60,12,2
+751,tricep pushdown,10/14/2019,60,12,3
+752,tricep pushdown,10/14/2019,60,12,4
+753,tricep pushdown,10/14/2019,60,12,5
+754,hanging leg raise,10/14/2019,0,8,1
+755,hanging leg raise,10/14/2019,0,5,2
+756,hanging leg raise,10/14/2019,0,5,3
+757,ab roller,10/14/2019,0,12,1
+758,ab roller,10/14/2019,0,12,2
+759,ab roller,10/14/2019,0,12,3
+760,ab roller,10/14/2019,0,12,4
+761,ab roller,10/14/2019,0,12,5
+762,deadlift,10/16/2019,205,5,1
+763,deadlift,10/16/2019,205,5,2
+764,deadlift,10/16/2019,185,5,3
+765,deadlift,10/16/2019,205,5,4
+766,deadlift,10/16/2019,185,5,5
+767,lateral pulldown,10/16/2019,90,12,1
+768,lateral pulldown,10/16/2019,90,12,2
+769,lateral pulldown,10/16/2019,90,12,3
+770,lateral pulldown,10/16/2019,90,12,4
+771,lateral pulldown,10/16/2019,90,12,5
+772,dumbbell bicep curl,10/16/2019,20,12,1
+773,dumbbell bicep curl,10/16/2019,20,12,2
+774,dumbbell bicep curl,10/16/2019,20,12,3
+775,dumbbell bicep curl,10/16/2019,20,12,4
+776,dumbbell bicep curl,10/16/2019,20,12,5
+777,crossbody hammer curl,10/16/2019,20,12,1
+778,crossbody hammer curl,10/16/2019,20,12,2
+779,crossbody hammer curl,10/16/2019,20,12,3
+780,squat,10/17/2019,215,5,1
+781,squat,10/17/2019,215,5,2
+782,squat,10/17/2019,215,5,3
+783,squat,10/17/2019,215,5,4
+784,squat,10/17/2019,215,5,5
+785,squat,10/17/2019,135,1,6
+786,squat,10/17/2019,135,1,7
+787,squat,10/17/2019,135,5,8
+788,calf raise,10/17/2019,240,12,1
+789,calf raise,10/17/2019,240,12,2
+790,calf raise,10/17/2019,240,12,3
+791,calf raise,10/17/2019,240,12,4
+792,calf raise,10/17/2019,240,12,5
+793,lateral raise,10/17/2019,15,12,1
+794,lateral raise,10/17/2019,15,12,2
+795,lateral raise,10/17/2019,15,12,3
+796,lateral raise,10/17/2019,20,12,4
+797,lateral raise,10/17/2019,20,12,5
+798,bench press,10/19/2019,135,5,1
+799,bench press,10/19/2019,165,5,2
+800,bench press,10/19/2019,185,3,3
+801,bench press,10/19/2019,205,1,4
+802,bench press,10/19/2019,115,8,5
+803,cross cable fly,10/19/2019,15,12,1
+804,cross cable fly,10/19/2019,15,12,2
+805,cross cable fly,10/19/2019,15,12,3
+806,cross cable fly,10/19/2019,15,12,4
+807,cross cable fly,10/19/2019,15,12,5
+808,pec fly,10/19/2019,50,12,1
+809,pec fly,10/19/2019,50,12,2
+810,pec fly,10/19/2019,50,12,3
+811,pec fly,10/19/2019,50,12,4
+812,pec fly,10/19/2019,50,12,5
+813,tricep pushdown,10/19/2019,50,12,1
+814,tricep pushdown,10/19/2019,50,12,2
+815,tricep pushdown,10/19/2019,50,12,3
+816,tricep pushdown,10/19/2019,50,12,4
+817,tricep pushdown,10/19/2019,50,12,5
+818,tricep press machine,10/19/2019,70,12,1
+819,tricep press machine,10/19/2019,70,12,2
+820,tricep press machine,10/19/2019,70,12,3
+821,tricep press machine,10/19/2019,70,12,4
+822,tricep press machine,10/19/2019,70,12,5
+823,deadlift,10/21/2019,135,5,1
+824,deadlift,10/21/2019,205,5,2
+825,deadlift,10/21/2019,205,5,3
+826,deadlift,10/21/2019,205,5,4
+827,deadlift,10/21/2019,205,5,5
+828,deadlift,10/21/2019,185,5,6
+829,lateral pulldown,10/21/2019,90,12,1
+830,lateral pulldown,10/21/2019,90,12,2
+831,lateral pulldown,10/21/2019,75,12,3
+832,lateral pulldown,10/21/2019,75,12,4
+833,lateral pulldown,10/21/2019,75,12,5
+834,dumbbell bicep curl,10/21/2019,20,12,1
+835,dumbbell bicep curl,10/21/2019,20,12,2
+836,dumbbell bicep curl,10/21/2019,20,12,3
+837,dumbbell bicep curl,10/21/2019,20,12,4
+838,dumbbell bicep curl,10/21/2019,20,12,5
+839,crossbody hammer curl,10/21/2019,20,12,1
+840,crossbody hammer curl,10/21/2019,20,12,2
+841,crossbody hammer curl,10/21/2019,20,12,3
+842,crossbody hammer curl,10/21/2019,20,12,4
+843,crossbody hammer curl,10/21/2019,20,12,5
+844,squat,10/22/2019,185,5,1
+845,squat,10/22/2019,215,5,2
+846,squat,10/22/2019,220,5,3
+847,squat,10/22/2019,220,5,4
+848,squat,10/22/2019,220,5,5
+849,squat,10/22/2019,185,5,6
+850,squat,10/22/2019,185,5,7
+851,squat,10/22/2019,185,5,8
+852,calf raise,10/22/2019,240,12,1
+853,calf raise,10/22/2019,240,12,2
+854,calf raise,10/22/2019,240,12,3
+855,calf raise,10/22/2019,240,12,4
+856,calf raise,10/22/2019,240,12,5
+857,lateral raise,10/22/2019,20,12,1
+858,lateral raise,10/22/2019,20,12,2
+859,lateral raise,10/22/2019,20,12,3
+860,lateral raise,10/22/2019,20,12,4
+861,lateral raise,10/22/2019,20,12,5
+862,bench press,10/24/2019,135,5,1
+863,bench press,10/24/2019,135,5,2
+864,bench press,10/24/2019,155,5,3
+865,bench press,10/24/2019,165,5,4
+866,bench press,10/24/2019,165,5,5
+867,bench press,10/24/2019,135,5,6
+868,bench press,10/24/2019,135,5,7
+869,bench press,10/24/2019,135,5,8
+870,cross cable fly,10/24/2019,30,12,1
+871,cross cable fly,10/24/2019,30,12,2
+872,cross cable fly,10/24/2019,30,12,3
+873,cross cable fly,10/24/2019,30,12,4
+874,cross cable fly,10/24/2019,30,12,5
+875,tricep pushdown,10/24/2019,60,12,1
+876,tricep pushdown,10/24/2019,60,12,2
+877,tricep pushdown,10/24/2019,60,12,3
+878,tricep pushdown,10/24/2019,60,12,4
+879,tricep pushdown,10/24/2019,60,12,5
+880,ab roller,10/24/2019,0,12,1
+881,ab roller,10/24/2019,0,12,2
+882,ab roller,10/24/2019,0,12,3
+883,ab roller,10/24/2019,0,12,4
+884,ab roller,10/24/2019,0,12,5
+885,deadlift,10/25/2019,185,5,1
+886,deadlift,10/25/2019,215,5,2
+887,deadlift,10/25/2019,215,5,3
+888,deadlift,10/25/2019,215,5,4
+889,deadlift,10/25/2019,185,5,5
+890,lateral pulldown,10/25/2019,75,12,1
+891,lateral pulldown,10/25/2019,75,12,2
+892,lateral pulldown,10/25/2019,75,12,3
+893,lateral pulldown,10/25/2019,75,12,4
+894,lateral pulldown,10/25/2019,75,12,5
+895,dumbbell bicep curl,10/25/2019,20,12,1
+896,dumbbell bicep curl,10/25/2019,20,12,2
+897,dumbbell bicep curl,10/25/2019,20,12,3
+898,dumbbell bicep curl,10/25/2019,20,12,4
+899,dumbbell bicep curl,10/25/2019,20,12,5
+900,crossbody hammer curl,10/25/2019,20,12,1
+901,crossbody hammer curl,10/25/2019,20,12,2
+902,crossbody hammer curl,10/25/2019,20,12,3
+903,bicep ez curl,10/25/2019,45,12,1
+904,bicep ez curl,10/25/2019,45,12,2
+905,bicep ez curl,10/25/2019,45,12,3
+906,lateral raise,10/25/2019,15,12,1
+907,lateral raise,10/25/2019,15,12,2
+908,lateral raise,10/25/2019,15,12,3
+909,lateral raise,10/25/2019,15,12,4
+910,lateral raise,10/25/2019,15,12,5
+911,squat,10/27/2019,135,5,1
+912,squat,10/27/2019,205,5,2
+913,squat,10/27/2019,225,5,3
+914,squat,10/27/2019,225,5,4
+915,squat,10/27/2019,225,5,5
+916,squat,10/27/2019,185,5,6
+917,squat,10/27/2019,185,5,7
+918,squat,10/27/2019,185,5,8
+919,leg extension,10/27/2019,90,12,1
+920,leg extension,10/27/2019,90,12,2
+921,leg extension,10/27/2019,90,12,3
+922,isolated glute hamstring developer,10/27/2019,40,12,1
+923,isolated glute hamstring developer,10/27/2019,40,12,2
+924,isolated glute hamstring developer,10/27/2019,40,12,3
+925,calf raise,10/27/2019,240,12,1
+926,calf raise,10/27/2019,240,12,2
+927,calf raise,10/27/2019,240,12,3
+928,calf raise,10/27/2019,240,12,4
+929,calf raise,10/27/2019,240,12,5
+930,lateral raise,10/27/2019,15,12,1
+931,lateral raise,10/27/2019,15,12,2
+932,lateral raise,10/27/2019,15,12,3
+933,lateral raise,10/27/2019,15,12,4
+934,lateral raise,10/27/2019,15,12,5
+935,bench press,10/28/2019,135,5,1
+936,bench press,10/28/2019,175,5,2
+937,bench press,10/28/2019,175,5,3
+938,bench press,10/28/2019,175,5,4
+939,bench press,10/28/2019,175,5,5
+940,bench press,10/28/2019,135,5,6
+941,bench press,10/28/2019,135,5,7
+942,bench press,10/28/2019,135,5,8
+943,cross cable fly,10/28/2019,30,12,1
+944,cross cable fly,10/28/2019,30,12,2
+945,cross cable fly,10/28/2019,30,12,3
+946,cross cable fly,10/28/2019,30,12,4
+947,cross cable fly,10/28/2019,30,12,5
+948,tricep pushdown,10/28/2019,60,12,1
+949,tricep pushdown,10/28/2019,60,12,2
+950,tricep pushdown,10/28/2019,60,12,3
+951,tricep pushdown,10/28/2019,60,12,4
+952,tricep pushdown,10/28/2019,60,12,5
+953,ab roller,10/28/2019,0,12,1
+954,ab roller,10/28/2019,0,12,2
+955,ab roller,10/28/2019,0,12,3
+956,ab roller,10/28/2019,0,12,4
+957,ab roller,10/28/2019,0,12,5
+958,deadlift,10/29/2019,115,5,1
+959,deadlift,10/29/2019,135,5,2
+960,deadlift,10/29/2019,135,5,3
+961,deadlift,10/29/2019,165,5,4
+962,deadlift,10/29/2019,165,5,5
+963,lateral pulldown,10/29/2019,95,12,1
+964,lateral pulldown,10/29/2019,75,12,2
+965,lateral pulldown,10/29/2019,75,12,3
+966,lateral pulldown,10/29/2019,75,12,4
+967,lateral pulldown,10/29/2019,75,12,5
+968,dumbbell bicep curl,10/29/2019,20,12,1
+969,dumbbell bicep curl,10/29/2019,20,12,2
+970,dumbbell bicep curl,10/29/2019,20,12,3
+971,dumbbell bicep curl,10/29/2019,20,12,4
+972,dumbbell bicep curl,10/29/2019,20,12,5
+973,crossbody hammer curl,10/29/2019,20,12,1
+974,crossbody hammer curl,10/29/2019,20,12,2
+975,crossbody hammer curl,10/29/2019,20,12,3
+976,crossbody hammer curl,10/29/2019,20,12,4
+977,crossbody hammer curl,10/29/2019,20,12,5
+978,squat,10/30/2019,115,5,1
+979,squat,10/30/2019,165,5,2
+980,squat,10/30/2019,165,5,3
+981,squat,10/30/2019,185,5,4
+982,squat,10/30/2019,185,5,5
+983,squat,10/30/2019,185,5,6
+984,squat,10/30/2019,165,5,7
+985,squat,10/30/2019,165,5,8
+986,seated calf raise,10/30/2019,45,12,1
+987,seated calf raise,10/30/2019,45,12,2
+988,seated calf raise,10/30/2019,45,12,3
+989,seated calf raise,10/30/2019,45,12,4
+990,seated calf raise,10/30/2019,45,12,5
+991,arnold press,10/30/2019,15,12,1
+992,arnold press,10/30/2019,15,12,2
+993,arnold press,10/30/2019,15,12,3
+994,arnold press,10/30/2019,15,12,4
+995,arnold press,10/30/2019,15,12,5
+996,lateral raise,10/30/2019,15,12,1
+997,lateral raise,10/30/2019,15,12,2
+998,lateral raise,10/30/2019,15,12,3
+999,lateral raise,10/30/2019,15,12,4
+1000,lateral raise,10/30/2019,15,12,5
+1001,bench press,11/1/2019,95,5,1
+1002,bench press,11/1/2019,135,5,2
+1003,bench press,11/1/2019,165,5,3
+1004,bench press,11/1/2019,210,1,4
+1005,bench press,11/1/2019,210,1,5
+1006,bench press,11/1/2019,185,3,6
+1007,bench press,11/1/2019,135,5,7
+1008,bench press,11/1/2019,135,5,8
+1009,bench press,11/1/2019,135,5,9
+1010,cross cable fly,11/1/2019,20,12,1
+1011,cross cable fly,11/1/2019,30,12,2
+1012,cross cable fly,11/1/2019,30,12,3
+1013,cross cable fly,11/1/2019,30,12,4
+1014,cross cable fly,11/1/2019,30,12,5
+1015,tricep pushdown,11/1/2019,60,12,1
+1016,tricep pushdown,11/1/2019,60,12,2
+1017,tricep pushdown,11/1/2019,60,12,3
+1018,tricep pushdown,11/1/2019,60,12,4
+1019,tricep pushdown,11/1/2019,60,12,5
+1020,deadlift,11/3/2019,135,5,1
+1021,deadlift,11/3/2019,225,5,2
+1022,deadlift,11/3/2019,225,5,3
+1023,deadlift,11/3/2019,225,5,4
+1024,deadlift,11/3/2019,225,5,5
+1025,lateral pulldown,11/3/2019,90,12,1
+1026,lateral pulldown,11/3/2019,90,12,2
+1027,lateral pulldown,11/3/2019,90,12,3
+1028,lateral pulldown,11/3/2019,75,12,4
+1029,lateral pulldown,11/3/2019,75,12,5
+1030,dumbbell bicep curl,11/3/2019,25,12,1
+1031,dumbbell bicep curl,11/3/2019,25,12,2
+1032,dumbbell bicep curl,11/3/2019,25,12,3
+1033,dumbbell bicep curl,11/3/2019,25,12,4
+1034,dumbbell bicep curl,11/3/2019,25,12,5
+1035,crossbody hammer curl,11/3/2019,25,12,1
+1036,crossbody hammer curl,11/3/2019,25,12,2
+1037,crossbody hammer curl,11/3/2019,25,12,3
+1038,crossbody hammer curl,11/3/2019,25,12,4
+1039,crossbody hammer curl,11/3/2019,25,12,5
+1040,ab roller,11/3/2019,0,12,1
+1041,ab roller,11/3/2019,0,12,2
+1042,ab roller,11/3/2019,0,12,3
+1043,ab roller,11/3/2019,0,12,4
+1044,ab roller,11/3/2019,0,12,5
+1045,squat,11/4/2019,185,5,1
+1046,squat,11/4/2019,225,5,2
+1047,squat,11/4/2019,205,5,3
+1048,squat,11/4/2019,205,5,4
+1049,squat,11/4/2019,205,5,5
+1050,squat,11/4/2019,185,5,6
+1051,squat,11/4/2019,185,5,7
+1052,squat,11/4/2019,185,5,8
+1053,calf raise,11/4/2019,240,12,1
+1054,calf raise,11/4/2019,240,12,2
+1055,calf raise,11/4/2019,240,12,3
+1056,calf raise,11/4/2019,240,12,4
+1057,calf raise,11/4/2019,240,12,5
+1058,arnold press,11/4/2019,20,12,1
+1059,arnold press,11/4/2019,20,12,2
+1060,arnold press,11/4/2019,15,12,3
+1061,arnold press,11/4/2019,15,12,4
+1062,arnold press,11/4/2019,15,12,5
+1063,lateral raise,11/4/2019,15,12,1
+1064,lateral raise,11/4/2019,15,12,2
+1065,lateral raise,11/4/2019,15,12,3
+1066,lateral raise,11/4/2019,15,12,4
+1067,lateral raise,11/4/2019,15,12,5
+1068,bench press,11/5/2019,135,5,1
+1069,bench press,11/5/2019,135,5,2
+1070,bench press,11/5/2019,155,5,3
+1071,bench press,11/5/2019,175,5,4
+1072,bench press,11/5/2019,135,5,5
+1073,bench press,11/5/2019,135,5,6
+1074,bench press,11/5/2019,135,5,7
+1075,bench press,11/5/2019,135,5,8
+1076,cross cable fly,11/5/2019,20,12,1
+1077,cross cable fly,11/5/2019,30,12,2
+1078,cross cable fly,11/5/2019,30,12,3
+1079,cross cable fly,11/5/2019,30,12,4
+1080,cross cable fly,11/5/2019,30,12,5
+1081,tricep pushdown,11/5/2019,60,12,1
+1082,tricep pushdown,11/5/2019,60,12,2
+1083,tricep pushdown,11/5/2019,60,12,3
+1084,tricep pushdown,11/5/2019,60,12,4
+1085,tricep pushdown,11/5/2019,60,12,5
+1086,deadlift,11/7/2019,135,5,1
+1087,deadlift,11/7/2019,185,5,2
+1088,deadlift,11/7/2019,185,5,3
+1089,deadlift,11/7/2019,185,5,4
+1090,deadlift,11/7/2019,185,5,5
+1091,lateral pulldown,11/7/2019,90,12,1
+1092,lateral pulldown,11/7/2019,90,12,2
+1093,lateral pulldown,11/7/2019,90,12,3
+1094,lateral pulldown,11/7/2019,90,12,4
+1095,lateral pulldown,11/7/2019,90,12,5
+1096,dumbbell bicep curl,11/7/2019,20,12,1
+1097,dumbbell bicep curl,11/7/2019,20,12,2
+1098,dumbbell bicep curl,11/7/2019,20,12,3
+1099,dumbbell bicep curl,11/7/2019,20,12,4
+1100,dumbbell bicep curl,11/7/2019,20,12,5
+1101,crossbody hammer curl,11/7/2019,20,12,1
+1102,crossbody hammer curl,11/7/2019,20,12,2
+1103,crossbody hammer curl,11/7/2019,20,12,3
+1104,squat,11/8/2019,135,5,1
+1105,squat,11/8/2019,185,5,2
+1106,squat,11/8/2019,205,5,3
+1107,squat,11/8/2019,205,5,4
+1108,squat,11/8/2019,185,5,5
+1109,squat,11/8/2019,185,5,6
+1110,squat,11/8/2019,185,5,7
+1111,squat,11/8/2019,185,5,8
+1112,calf raise,11/8/2019,240,12,1
+1113,calf raise,11/8/2019,240,12,2
+1114,calf raise,11/8/2019,240,12,3
+1115,calf raise,11/8/2019,240,12,4
+1116,calf raise,11/8/2019,240,12,5
+1117,ab roller,11/8/2019,0,12,1
+1118,ab roller,11/8/2019,0,12,2
+1119,ab roller,11/8/2019,0,12,3
+1120,ab roller,11/8/2019,0,12,4
+1121,ab roller,11/8/2019,0,12,5
+1122,bench press,11/10/2019,95,5,1
+1123,bench press,11/10/2019,135,5,2
+1124,bench press,11/10/2019,185,3,3
+1125,bench press,11/10/2019,205,1,4
+1126,bench press,11/10/2019,185,2,5
+1127,bench press,11/10/2019,135,5,6
+1128,bench press,11/10/2019,135,5,7
+1129,bench press,11/10/2019,135,5,8
+1130,cross cable fly,11/10/2019,30,12,1
+1131,cross cable fly,11/10/2019,30,12,2
+1132,cross cable fly,11/10/2019,30,12,3
+1133,cross cable fly,11/10/2019,30,12,4
+1134,cross cable fly,11/10/2019,30,12,5
+1135,tricep pushdown,11/10/2019,70,12,1
+1136,tricep pushdown,11/10/2019,70,12,2
+1137,tricep pushdown,11/10/2019,70,12,3
+1138,tricep pushdown,11/10/2019,70,12,4
+1139,tricep pushdown,11/10/2019,70,12,5
+1140,arnold press,11/10/2019,15,12,1
+1141,arnold press,11/10/2019,15,12,2
+1142,arnold press,11/10/2019,15,12,3
+1143,arnold press,11/10/2019,15,12,4
+1144,arnold press,11/10/2019,15,12,5
+1145,lateral raise,11/10/2019,15,12,1
+1146,lateral raise,11/10/2019,15,12,2
+1147,lateral raise,11/10/2019,15,12,3
+1148,lateral raise,11/10/2019,15,12,4
+1149,lateral raise,11/10/2019,15,12,5
+1150,deadlift,11/11/2019,185,5,1
+1151,deadlift,11/11/2019,235,5,2
+1152,deadlift,11/11/2019,225,5,3
+1153,deadlift,11/11/2019,225,5,4
+1154,deadlift,11/11/2019,225,5,5
+1155,lateral pulldown,11/11/2019,90,12,1
+1156,lateral pulldown,11/11/2019,75,12,2
+1157,lateral pulldown,11/11/2019,75,12,3
+1158,lateral pulldown,11/11/2019,75,12,4
+1159,lateral pulldown,11/11/2019,75,12,5
+1160,dumbbell bicep curl,11/11/2019,20,12,1
+1161,dumbbell bicep curl,11/11/2019,25,12,2
+1162,dumbbell bicep curl,11/11/2019,25,12,3
+1163,dumbbell bicep curl,11/11/2019,25,12,4
+1164,dumbbell bicep curl,11/11/2019,25,12,5
+1165,crossbody hammer curl,11/11/2019,25,12,1
+1166,crossbody hammer curl,11/11/2019,20,12,2
+1167,crossbody hammer curl,11/11/2019,20,12,3
+1168,crossbody hammer curl,11/11/2019,20,12,4
+1169,crossbody hammer curl,11/11/2019,20,12,5
+1170,squat,11/12/2019,205,5,1
+1171,squat,11/12/2019,205,5,2
+1172,squat,11/12/2019,225,5,3
+1173,squat,11/12/2019,225,5,4
+1174,squat,11/12/2019,205,5,5
+1175,squat,11/12/2019,185,5,6
+1176,squat,11/12/2019,185,5,7
+1177,squat,11/12/2019,185,5,8
+1178,calf raise,11/12/2019,240,12,1
+1179,calf raise,11/12/2019,240,12,2
+1180,calf raise,11/12/2019,240,12,3
+1181,calf raise,11/12/2019,240,12,4
+1182,calf raise,11/12/2019,240,12,5
+1183,bench press,11/14/2019,135,5,1
+1184,bench press,11/14/2019,155,5,2
+1185,bench press,11/14/2019,205,1,3
+1186,bench press,11/14/2019,185,3,4
+1187,bench press,11/14/2019,175,5,5
+1188,bench press,11/14/2019,135,5,6
+1189,bench press,11/14/2019,135,5,7
+1190,bench press,11/14/2019,135,5,8
+1191,cross cable fly,11/14/2019,30,12,1
+1192,cross cable fly,11/14/2019,30,12,2
+1193,cross cable fly,11/14/2019,30,12,3
+1194,cross cable fly,11/14/2019,30,12,4
+1195,cross cable fly,11/14/2019,30,12,5
+1196,tricep pushdown,11/14/2019,70,12,1
+1197,tricep pushdown,11/14/2019,70,12,2
+1198,tricep pushdown,11/14/2019,70,12,3
+1199,tricep pushdown,11/14/2019,60,12,4
+1200,tricep pushdown,11/14/2019,60,12,5
+1201,ab roller,11/14/2019,0,12,1
+1202,ab roller,11/14/2019,0,12,2
+1203,ab roller,11/14/2019,0,12,3
+1204,ab roller,11/14/2019,0,12,4
+1205,ab roller,11/14/2019,0,12,5
+1206,deadlift,11/17/2019,135,5,1
+1207,deadlift,11/17/2019,135,5,2
+1208,deadlift,11/17/2019,185,5,3
+1209,deadlift,11/17/2019,185,5,4
+1210,deadlift,11/17/2019,185,5,5
+1211,lateral pulldown,11/17/2019,90,12,1
+1212,lateral pulldown,11/17/2019,90,12,2
+1213,lateral pulldown,11/17/2019,75,12,3
+1214,lateral pulldown,11/17/2019,75,12,4
+1215,lateral pulldown,11/17/2019,75,12,5
+1216,dumbbell bicep curl,11/17/2019,25,12,1
+1217,dumbbell bicep curl,11/17/2019,25,12,2
+1218,dumbbell bicep curl,11/17/2019,25,12,3
+1219,dumbbell bicep curl,11/17/2019,25,12,4
+1220,dumbbell bicep curl,11/17/2019,25,12,5
+1221,squat,11/18/2019,135,5,1
+1222,squat,11/18/2019,185,5,2
+1223,squat,11/18/2019,205,5,3
+1224,squat,11/18/2019,205,5,4
+1225,squat,11/18/2019,205,5,5
+1226,squat,11/18/2019,135,5,6
+1227,squat,11/18/2019,185,5,7
+1228,squat,11/18/2019,185,5,8
+1229,calf raise,11/18/2019,240,12,1
+1230,calf raise,11/18/2019,240,12,2
+1231,calf raise,11/18/2019,240,12,3
+1232,calf raise,11/18/2019,240,12,4
+1233,calf raise,11/18/2019,240,12,5
+1234,arnold press,11/18/2019,20,12,1
+1235,arnold press,11/18/2019,20,12,2
+1236,arnold press,11/18/2019,20,12,3
+1237,arnold press,11/18/2019,20,12,4
+1238,arnold press,11/18/2019,20,12,5
+1239,lateral raise,11/18/2019,20,12,1
+1240,lateral raise,11/18/2019,15,12,2
+1241,lateral raise,11/18/2019,15,12,3
+1242,lateral raise,11/18/2019,15,12,4
+1243,lateral raise,11/18/2019,15,12,5
+1244,bench press,11/21/2019,115,8,1
+1245,bench press,11/21/2019,155,5,2
+1246,bench press,11/21/2019,155,5,3
+1247,bench press,11/21/2019,175,5,4
+1248,bench press,11/21/2019,135,5,5
+1249,bench press,11/21/2019,135,5,6
+1250,bench press,11/21/2019,135,5,7
+1251,bench press,11/21/2019,135,5,8
+1252,cross cable fly,11/21/2019,30,12,1
+1253,cross cable fly,11/21/2019,30,12,2
+1254,cross cable fly,11/21/2019,30,12,3
+1255,cross cable fly,11/21/2019,30,12,4
+1256,cross cable fly,11/21/2019,30,12,5
+1257,tricep pushdown,11/21/2019,60,12,1
+1258,tricep pushdown,11/21/2019,60,12,2
+1259,tricep pushdown,11/21/2019,60,12,3
+1260,tricep pushdown,11/21/2019,60,12,4
+1261,tricep pushdown,11/21/2019,60,12,5
+1262,deadlift,11/22/2019,135,5,1
+1263,deadlift,11/22/2019,185,5,2
+1264,deadlift,11/22/2019,185,5,3
+1265,deadlift,11/22/2019,185,5,4
+1266,deadlift,11/22/2019,185,5,5
+1267,lateral pulldown,11/22/2019,90,12,1
+1268,lateral pulldown,11/22/2019,90,12,2
+1269,lateral pulldown,11/22/2019,90,12,3
+1270,lateral pulldown,11/22/2019,75,12,4
+1271,lateral pulldown,11/22/2019,75,12,5
+1272,dumbbell bicep curl,11/22/2019,20,12,1
+1273,dumbbell bicep curl,11/22/2019,20,12,2
+1274,dumbbell bicep curl,11/22/2019,20,12,3
+1275,dumbbell bicep curl,11/22/2019,20,12,4
+1276,dumbbell bicep curl,11/22/2019,20,12,5
+1277,ab roller,11/22/2019,0,12,1
+1278,ab roller,11/22/2019,0,12,2
+1279,ab roller,11/22/2019,0,12,3
+1280,squat,11/25/2019,135,5,1
+1281,squat,11/25/2019,185,5,2
+1282,squat,11/25/2019,205,5,3
+1283,squat,11/25/2019,225,5,4
+1284,squat,11/25/2019,185,5,5
+1285,squat,11/25/2019,185,5,6
+1286,squat,11/25/2019,185,5,7
+1287,squat,11/25/2019,185,5,8
+1288,calf raise,11/25/2019,240,12,1
+1289,calf raise,11/25/2019,240,12,2
+1290,calf raise,11/25/2019,240,12,3
+1291,calf raise,11/25/2019,240,12,4
+1292,calf raise,11/25/2019,240,12,5
+1293,arnold press,11/25/2019,20,12,1
+1294,arnold press,11/25/2019,20,12,2
+1295,arnold press,11/25/2019,20,12,3
+1296,arnold press,11/25/2019,20,12,4
+1297,arnold press,11/25/2019,20,12,5
+1298,lateral raise,11/25/2019,20,12,1
+1299,lateral raise,11/25/2019,15,12,2
+1300,lateral raise,11/25/2019,15,12,3
+1301,lateral raise,11/25/2019,15,12,4
+1302,lateral raise,11/25/2019,15,12,5
+1303,bench press,11/26/2019,95,5,1
+1304,bench press,11/26/2019,135,5,2
+1305,bench press,11/26/2019,165,5,3
+1306,bench press,11/26/2019,205,1,4
+1307,bench press,11/26/2019,170,5,5
+1308,bench press,11/26/2019,155,5,6
+1309,bench press,11/26/2019,155,5,7
+1310,bench press,11/26/2019,155,5,8
+1311,cross cable fly,11/26/2019,30,12,1
+1312,cross cable fly,11/26/2019,30,12,2
+1313,cross cable fly,11/26/2019,30,12,3
+1314,cross cable fly,11/26/2019,30,12,4
+1315,cross cable fly,11/26/2019,30,12,5
+1316,tricep pushdown,11/26/2019,60,12,1
+1317,tricep pushdown,11/26/2019,70,12,2
+1318,tricep pushdown,11/26/2019,70,12,3
+1319,tricep pushdown,11/26/2019,70,12,4
+1320,tricep pushdown,11/26/2019,60,12,5
+1321,overhead tricep pull,11/26/2019,30,12,1
+1322,overhead tricep pull,11/26/2019,40,12,2
+1323,overhead tricep pull,11/26/2019,40,12,3
+1324,ab roller,11/26/2019,0,12,1
+1325,ab roller,11/26/2019,0,12,2
+1326,ab roller,11/26/2019,0,12,3
+1327,ab roller,11/26/2019,0,12,4
+1328,ab roller,11/26/2019,0,12,5
+1329,deadlift,11/28/2019,185,5,1
+1330,deadlift,11/28/2019,235,5,2
+1331,deadlift,11/28/2019,235,5,3
+1332,deadlift,11/28/2019,235,5,4
+1333,deadlift,11/28/2019,205,5,5
+1334,lateral pulldown,11/28/2019,90,12,1
+1335,lateral pulldown,11/28/2019,90,12,2
+1336,lateral pulldown,11/28/2019,90,12,3
+1337,lateral pulldown,11/28/2019,75,12,4
+1338,lateral pulldown,11/28/2019,75,12,5
+1339,dumbbell bicep curl,11/28/2019,25,12,1
+1340,dumbbell bicep curl,11/28/2019,25,12,2
+1341,dumbbell bicep curl,11/28/2019,25,12,3
+1342,dumbbell bicep curl,11/28/2019,25,12,4
+1343,dumbbell bicep curl,11/28/2019,25,12,5
+1344,crossbody hammer curl,11/28/2019,20,12,1
+1345,crossbody hammer curl,11/28/2019,20,12,2
+1346,crossbody hammer curl,11/28/2019,20,12,3
+1347,crossbody hammer curl,11/28/2019,20,12,4
+1348,crossbody hammer curl,11/28/2019,20,12,5
+1349,squat,11/30/2019,185,5,1
+1350,squat,11/30/2019,235,5,2
+1351,squat,11/30/2019,235,5,3
+1352,squat,11/30/2019,225,5,4
+1353,squat,11/30/2019,225,5,5
+1354,leg extension,11/30/2019,70,12,1
+1355,leg extension,11/30/2019,70,12,2
+1356,leg extension,11/30/2019,70,12,3
+1357,leg extension,11/30/2019,70,12,4
+1358,leg extension,11/30/2019,70,12,5
+1359,calf raise,11/30/2019,240,12,1
+1360,calf raise,11/30/2019,240,12,2
+1361,calf raise,11/30/2019,240,12,3
+1362,calf raise,11/30/2019,240,12,4
+1363,calf raise,11/30/2019,240,12,5
+1364,arnold press,11/30/2019,20,12,1
+1365,arnold press,11/30/2019,20,12,2
+1366,arnold press,11/30/2019,20,12,3
+1367,arnold press,11/30/2019,20,12,4
+1368,arnold press,11/30/2019,20,12,5
+1369,lateral raise,11/30/2019,20,12,1
+1370,lateral raise,11/30/2019,20,12,2
+1371,lateral raise,11/30/2019,20,12,3
+1372,lateral raise,11/30/2019,20,12,4
+1373,lateral raise,11/30/2019,20,12,5
+1374,bench press,12/1/2019,135,5,1
+1375,bench press,12/1/2019,155,5,2
+1376,bench press,12/1/2019,175,5,3
+1377,bench press,12/1/2019,185,3,4
+1378,bench press,12/1/2019,155,5,5
+1379,bench press,12/1/2019,155,5,6
+1380,bench press,12/1/2019,155,5,7
+1381,bench press,12/1/2019,155,5,8
+1382,cross cable fly,12/1/2019,30,12,1
+1383,cross cable fly,12/1/2019,30,12,2
+1384,cross cable fly,12/1/2019,30,12,3
+1385,cross cable fly,12/1/2019,30,12,4
+1386,cross cable fly,12/1/2019,30,12,5
+1387,tricep pushdown,12/1/2019,70,12,1
+1388,tricep pushdown,12/1/2019,70,12,2
+1389,tricep pushdown,12/1/2019,70,12,3
+1390,tricep pushdown,12/1/2019,70,12,4
+1391,tricep pushdown,12/1/2019,70,12,5
+1392,deadlift,12/2/2019,135,5,1
+1393,deadlift,12/2/2019,185,5,2
+1394,deadlift,12/2/2019,185,5,3
+1395,deadlift,12/2/2019,185,5,4
+1396,deadlift,12/2/2019,185,5,5
+1397,lateral pulldown,12/2/2019,90,12,1
+1398,lateral pulldown,12/2/2019,90,12,2
+1399,lateral pulldown,12/2/2019,90,12,3
+1400,lateral pulldown,12/2/2019,90,12,4
+1401,lateral pulldown,12/2/2019,90,12,5
+1402,dumbbell bicep curl,12/2/2019,25,12,1
+1403,dumbbell bicep curl,12/2/2019,25,12,2
+1404,dumbbell bicep curl,12/2/2019,25,12,3
+1405,dumbbell bicep curl,12/2/2019,25,12,4
+1406,dumbbell bicep curl,12/2/2019,25,12,5
+1407,crossbody hammer curl,12/2/2019,20,12,1
+1408,crossbody hammer curl,12/2/2019,20,12,2
+1409,crossbody hammer curl,12/2/2019,20,12,3
+1410,crossbody hammer curl,12/2/2019,20,12,4
+1411,crossbody hammer curl,12/2/2019,20,12,5
+1412,squat,12/3/2019,135,5,1
+1413,squat,12/3/2019,185,5,2
+1414,squat,12/3/2019,185,5,3
+1415,squat,12/3/2019,185,5,4
+1416,squat,12/3/2019,185,5,5
+1417,seated leg curl,12/3/2019,60,12,1
+1418,seated leg curl,12/3/2019,60,12,2
+1419,seated leg curl,12/3/2019,60,12,3
+1420,seated leg curl,12/3/2019,60,12,4
+1421,seated leg curl,12/3/2019,60,12,5
+1422,calf raise,12/3/2019,240,12,1
+1423,calf raise,12/3/2019,240,12,2
+1424,calf raise,12/3/2019,240,12,3
+1425,calf raise,12/3/2019,240,12,4
+1426,calf raise,12/3/2019,240,12,5
+1427,bench press,12/5/2019,135,5,1
+1428,bench press,12/5/2019,165,5,2
+1429,bench press,12/5/2019,185,5,3
+1430,bench press,12/5/2019,165,5,4
+1431,bench press,12/5/2019,165,5,5
+1432,cross cable fly,12/5/2019,30,12,1
+1433,cross cable fly,12/5/2019,30,12,2
+1434,cross cable fly,12/5/2019,30,12,3
+1435,cross cable fly,12/5/2019,30,12,4
+1436,cross cable fly,12/5/2019,30,12,5
+1437,tricep pushdown,12/5/2019,60,12,1
+1438,tricep pushdown,12/5/2019,60,12,2
+1439,tricep pushdown,12/5/2019,60,12,3
+1440,tricep pushdown,12/5/2019,60,12,4
+1441,tricep pushdown,12/5/2019,60,12,5
+1442,ab roller,12/5/2019,0,12,1
+1443,ab roller,12/5/2019,0,12,2
+1444,ab roller,12/5/2019,0,12,3
+1445,ab roller,12/5/2019,0,12,4
+1446,ab roller,12/5/2019,0,12,5
+1447,deadlift,12/6/2019,135,5,1
+1448,deadlift,12/6/2019,205,5,2
+1449,deadlift,12/6/2019,235,5,3
+1450,deadlift,12/6/2019,235,5,4
+1451,deadlift,12/6/2019,205,5,5
+1452,lateral pulldown,12/6/2019,105,12,1
+1453,lateral pulldown,12/6/2019,90,12,2
+1454,lateral pulldown,12/6/2019,75,12,3
+1455,lateral pulldown,12/6/2019,75,12,4
+1456,lateral pulldown,12/6/2019,75,12,5
+1457,dumbbell bicep curl,12/6/2019,25,12,1
+1458,dumbbell bicep curl,12/6/2019,25,12,2
+1459,dumbbell bicep curl,12/6/2019,25,12,3
+1460,dumbbell bicep curl,12/6/2019,25,12,4
+1461,dumbbell bicep curl,12/6/2019,25,12,5
+1462,squat,12/7/2019,185,5,1
+1463,squat,12/7/2019,235,5,2
+1464,squat,12/7/2019,235,5,3
+1465,squat,12/7/2019,235,5,4
+1466,squat,12/7/2019,185,5,5
+1467,leg extension,12/7/2019,70,12,1
+1468,leg extension,12/7/2019,90,12,2
+1469,leg extension,12/7/2019,90,12,3
+1470,leg extension,12/7/2019,90,12,4
+1471,leg extension,12/7/2019,90,12,5
+1472,calf raise,12/7/2019,240,12,1
+1473,calf raise,12/7/2019,240,12,2
+1474,calf raise,12/7/2019,240,12,3
+1475,calf raise,12/7/2019,240,12,4
+1476,calf raise,12/7/2019,240,12,5
+1477,bench press,12/9/2019,135,5,1
+1478,bench press,12/9/2019,155,5,2
+1479,bench press,12/9/2019,175,5,3
+1480,bench press,12/9/2019,155,5,4
+1481,bench press,12/9/2019,155,5,5
+1482,incline dumbbell press,12/9/2019,30,12,1
+1483,incline dumbbell press,12/9/2019,30,12,2
+1484,incline dumbbell press,12/9/2019,30,12,3
+1485,incline dumbbell press,12/9/2019,30,12,4
+1486,incline dumbbell press,12/9/2019,30,12,5
+1487,cross cable fly,12/9/2019,30,12,1
+1488,cross cable fly,12/9/2019,30,12,2
+1489,cross cable fly,12/9/2019,30,12,3
+1490,cross cable fly,12/9/2019,30,12,4
+1491,cross cable fly,12/9/2019,30,12,5
+1492,tricep pushdown,12/9/2019,70,12,1
+1493,tricep pushdown,12/9/2019,70,12,2
+1494,tricep pushdown,12/9/2019,70,12,3
+1495,tricep pushdown,12/9/2019,70,12,4
+1496,tricep pushdown,12/9/2019,70,12,5
+1497,deadlift,12/10/2019,135,5,1
+1498,deadlift,12/10/2019,185,5,2
+1499,deadlift,12/10/2019,185,5,3
+1500,deadlift,12/10/2019,185,5,4
+1501,deadlift,12/10/2019,185,5,5
+1502,lateral pulldown,12/10/2019,90,12,1
+1503,lateral pulldown,12/10/2019,90,12,2
+1504,lateral pulldown,12/10/2019,75,12,3
+1505,lateral pulldown,12/10/2019,75,12,4
+1506,lateral pulldown,12/10/2019,75,12,5
+1507,dumbbell bicep curl,12/10/2019,20,12,1
+1508,dumbbell bicep curl,12/10/2019,20,12,2
+1509,dumbbell bicep curl,12/10/2019,20,12,3
+1510,dumbbell bicep curl,12/10/2019,20,12,4
+1511,dumbbell bicep curl,12/10/2019,20,12,5
+1512,dumbbell bicep curl,12/10/2019,20,12,6
+1513,crossbody hammer curl,12/10/2019,20,12,1
+1514,crossbody hammer curl,12/10/2019,20,12,2
+1515,crossbody hammer curl,12/10/2019,20,12,3
+1516,squat,12/12/2019,185,5,1
+1517,squat,12/12/2019,185,5,2
+1518,squat,12/12/2019,185,5,3
+1519,squat,12/12/2019,185,5,4
+1520,squat,12/12/2019,185,5,5
+1521,leg extension,12/12/2019,70,12,1
+1522,leg extension,12/12/2019,90,12,2
+1523,leg extension,12/12/2019,90,12,3
+1524,leg extension,12/12/2019,90,12,4
+1525,leg extension,12/12/2019,90,12,5
+1526,calf raise,12/12/2019,240,12,1
+1527,calf raise,12/12/2019,240,12,2
+1528,calf raise,12/12/2019,240,12,3
+1529,calf raise,12/12/2019,240,12,4
+1530,calf raise,12/12/2019,240,12,5
+1531,ab roller,12/12/2019,0,12,1
+1532,ab roller,12/12/2019,0,12,2
+1533,ab roller,12/12/2019,0,12,3
+1534,ab roller,12/12/2019,0,12,4
+1535,ab roller,12/12/2019,0,12,5
+1536,bench press,12/16/2019,135,5,1
+1537,bench press,12/16/2019,155,5,2
+1538,bench press,12/16/2019,165,5,3
+1539,bench press,12/16/2019,165,5,4
+1540,bench press,12/16/2019,165,5,5
+1541,incline dumbbell press,12/16/2019,35,8,1
+1542,incline dumbbell press,12/16/2019,35,8,2
+1543,incline dumbbell press,12/16/2019,35,8,3
+1544,incline dumbbell press,12/16/2019,35,8,4
+1545,incline dumbbell press,12/16/2019,35,8,5
+1546,cross cable fly,12/16/2019,30,12,1
+1547,cross cable fly,12/16/2019,30,12,2
+1548,cross cable fly,12/16/2019,30,12,3
+1549,cross cable fly,12/16/2019,30,12,4
+1550,cross cable fly,12/16/2019,30,12,5
+1551,tricep pushdown,12/16/2019,70,12,1
+1552,tricep pushdown,12/16/2019,70,12,2
+1553,tricep pushdown,12/16/2019,70,12,3
+1554,tricep pushdown,12/16/2019,70,12,4
+1555,tricep pushdown,12/16/2019,70,12,5
+1556,deadlift,12/17/2019,135,8,1
+1557,deadlift,12/17/2019,185,5,2
+1558,deadlift,12/17/2019,235,3,3
+1559,deadlift,12/17/2019,205,5,4
+1560,deadlift,12/17/2019,205,5,5
+1561,lateral pulldown,12/17/2019,90,12,1
+1562,lateral pulldown,12/17/2019,90,12,2
+1563,lateral pulldown,12/17/2019,90,12,3
+1564,lateral pulldown,12/17/2019,75,12,4
+1565,lateral pulldown,12/17/2019,75,12,5
+1566,dumbbell bicep curl,12/17/2019,20,12,1
+1567,dumbbell bicep curl,12/17/2019,20,12,2
+1568,dumbbell bicep curl,12/17/2019,20,12,3
+1569,dumbbell bicep curl,12/17/2019,20,12,4
+1570,dumbbell bicep curl,12/17/2019,20,12,5
+1571,crossbody hammer curl,12/17/2019,20,12,1
+1572,crossbody hammer curl,12/17/2019,20,12,2
+1573,crossbody hammer curl,12/17/2019,20,12,3
+1574,squat,12/18/2019,185,5,1
+1575,squat,12/18/2019,235,5,2
+1576,squat,12/18/2019,235,5,3
+1577,squat,12/18/2019,185,5,4
+1578,squat,12/18/2019,185,5,5
+1579,leg extension,12/18/2019,90,12,1
+1580,leg extension,12/18/2019,90,12,2
+1581,leg extension,12/18/2019,70,12,3
+1582,calf raise,12/18/2019,240,12,1
+1583,calf raise,12/18/2019,240,12,2
+1584,calf raise,12/18/2019,240,12,3
+1585,calf raise,12/18/2019,240,12,4
+1586,calf raise,12/18/2019,240,12,5
+1587,bench press,12/19/2019,135,5,1
+1588,bench press,12/19/2019,165,5,2
+1589,bench press,12/19/2019,165,5,3
+1590,bench press,12/19/2019,165,5,4
+1591,bench press,12/19/2019,165,5,5
+1592,cross cable fly,12/19/2019,30,12,1
+1593,cross cable fly,12/19/2019,30,12,2
+1594,cross cable fly,12/19/2019,30,12,3
+1595,cross cable fly,12/19/2019,30,12,4
+1596,cross cable fly,12/19/2019,30,12,5
+1597,incline dumbbell press,12/19/2019,35,8,1
+1598,incline dumbbell press,12/19/2019,35,8,2
+1599,incline dumbbell press,12/19/2019,35,8,3
+1600,incline dumbbell press,12/19/2019,35,8,4
+1601,incline dumbbell press,12/19/2019,35,8,5
+1602,tricep pushdown,12/19/2019,70,12,1
+1603,tricep pushdown,12/19/2019,70,12,2
+1604,tricep pushdown,12/19/2019,70,12,3
+1605,tricep pushdown,12/19/2019,70,12,4
+1606,tricep pushdown,12/19/2019,70,12,5
+1607,deadlift,12/23/2019,185,5,1
+1608,deadlift,12/23/2019,185,5,2
+1609,deadlift,12/23/2019,185,5,3
+1610,deadlift,12/23/2019,185,5,4
+1611,deadlift,12/23/2019,185,5,5
+1612,lateral pulldown,12/23/2019,90,12,1
+1613,lateral pulldown,12/23/2019,90,12,2
+1614,lateral pulldown,12/23/2019,90,12,3
+1615,lateral pulldown,12/23/2019,90,12,4
+1616,lateral pulldown,12/23/2019,75,12,5
+1617,dumbbell bicep curl,12/23/2019,20,12,1
+1618,dumbbell bicep curl,12/23/2019,20,12,2
+1619,dumbbell bicep curl,12/23/2019,20,12,3
+1620,dumbbell bicep curl,12/23/2019,20,12,4
+1621,dumbbell bicep curl,12/23/2019,20,12,5
+1622,crossbody hammer curl,12/23/2019,20,12,1
+1623,crossbody hammer curl,12/23/2019,20,12,2
+1624,crossbody hammer curl,12/23/2019,20,12,3
+1625,reverse ab crunch,12/23/2019,0,12,1
+1626,reverse ab crunch,12/23/2019,0,12,2
+1627,reverse ab crunch,12/23/2019,0,12,3
+1628,reverse ab crunch,12/23/2019,0,12,4
+1629,reverse ab crunch,12/23/2019,0,12,5
+1630,squat,12/24/2019,135,5,1
+1631,squat,12/24/2019,185,5,2
+1632,squat,12/24/2019,185,5,3
+1633,squat,12/24/2019,205,5,4
+1634,squat,12/24/2019,205,5,5
+1635,leg extension,12/24/2019,70,12,1
+1636,leg extension,12/24/2019,90,12,2
+1637,leg extension,12/24/2019,90,12,3
+1638,leg extension,12/24/2019,90,12,4
+1639,leg extension,12/24/2019,90,12,5
+1640,prone leg curl,12/24/2019,50,12,1
+1641,prone leg curl,12/24/2019,50,12,2
+1642,prone leg curl,12/24/2019,50,12,3
+1643,prone leg curl,12/24/2019,50,12,4
+1644,prone leg curl,12/24/2019,50,12,5
+1645,calf raise,12/24/2019,240,12,1
+1646,calf raise,12/24/2019,240,12,2
+1647,calf raise,12/24/2019,240,12,3
+1648,calf raise,12/24/2019,240,12,4
+1649,calf raise,12/24/2019,240,12,5
+1650,bench press,12/25/2019,135,5,1
+1651,bench press,12/25/2019,155,5,2
+1652,bench press,12/25/2019,185,3,3
+1653,bench press,12/25/2019,185,3,4
+1654,bench press,12/25/2019,155,5,5
+1655,incline dumbbell press,12/25/2019,35,8,1
+1656,incline dumbbell press,12/25/2019,35,8,2
+1657,incline dumbbell press,12/25/2019,35,8,3
+1658,incline dumbbell press,12/25/2019,35,8,4
+1659,incline dumbbell press,12/25/2019,35,8,5
+1660,cross cable fly,12/25/2019,30,12,1
+1661,cross cable fly,12/25/2019,30,12,2
+1662,cross cable fly,12/25/2019,30,12,3
+1663,cross cable fly,12/25/2019,30,12,4
+1664,cross cable fly,12/25/2019,30,12,5
+1665,tricep pushdown,12/25/2019,70,12,1
+1666,tricep pushdown,12/25/2019,70,12,2
+1667,tricep pushdown,12/25/2019,70,12,3
+1668,tricep pushdown,12/25/2019,70,12,4
+1669,tricep pushdown,12/25/2019,70,12,5
+1670,deadlift,12/27/2019,185,5,1
+1671,deadlift,12/27/2019,235,5,2
+1672,deadlift,12/27/2019,205,5,3
+1673,deadlift,12/27/2019,205,5,4
+1674,deadlift,12/27/2019,205,5,5
+1675,lateral pulldown,12/27/2019,90,12,1
+1676,lateral pulldown,12/27/2019,90,12,2
+1677,lateral pulldown,12/27/2019,90,12,3
+1678,lateral pulldown,12/27/2019,90,12,4
+1679,lateral pulldown,12/27/2019,75,12,5
+1680,dumbbell bicep curl,12/27/2019,20,12,1
+1681,dumbbell bicep curl,12/27/2019,20,12,2
+1682,dumbbell bicep curl,12/27/2019,20,12,3
+1683,dumbbell bicep curl,12/27/2019,20,12,4
+1684,dumbbell bicep curl,12/27/2019,20,12,5
+1685,crossbody hammer curl,12/27/2019,20,12,1
+1686,crossbody hammer curl,12/27/2019,20,12,2
+1687,crossbody hammer curl,12/27/2019,20,12,3
+1688,squat,12/28/2019,185,5,1
+1689,squat,12/28/2019,205,5,2
+1690,squat,12/28/2019,225,5,3
+1691,squat,12/28/2019,225,5,4
+1692,squat,12/28/2019,225,5,5
+1693,leg extension,12/28/2019,90,12,1
+1694,leg extension,12/28/2019,90,12,2
+1695,leg extension,12/28/2019,90,12,3
+1696,leg extension,12/28/2019,90,12,4
+1697,leg extension,12/28/2019,90,12,5
+1698,prone leg curl,12/28/2019,50,12,1
+1699,prone leg curl,12/28/2019,50,12,2
+1700,prone leg curl,12/28/2019,50,12,3
+1701,prone leg curl,12/28/2019,50,12,4
+1702,prone leg curl,12/28/2019,50,12,5
+1703,calf raise,12/28/2019,240,12,1
+1704,calf raise,12/28/2019,240,12,2
+1705,calf raise,12/28/2019,240,12,3
+1706,calf raise,12/28/2019,240,12,4
+1707,calf raise,12/28/2019,240,12,5
+1708,dumbbell shoulder press,12/28/2019,20,12,1
+1709,dumbbell shoulder press,12/28/2019,20,12,2
+1710,dumbbell shoulder press,12/28/2019,15,12,3
+1711,dumbbell shoulder press,12/28/2019,15,12,4
+1712,dumbbell shoulder press,12/28/2019,15,12,5
+1713,lateral raise,12/28/2019,15,12,1
+1714,lateral raise,12/28/2019,15,12,2
+1715,lateral raise,12/28/2019,15,12,3
+1716,lateral raise,12/28/2019,15,12,4
+1717,lateral raise,12/28/2019,15,12,5
+1718,bench press,12/29/2019,135,5,1
+1719,bench press,12/29/2019,155,5,2
+1720,bench press,12/29/2019,175,5,3
+1721,bench press,12/29/2019,175,5,4
+1722,bench press,12/29/2019,165,5,5
+1723,cross cable fly,12/29/2019,30,12,1
+1724,cross cable fly,12/29/2019,30,12,2
+1725,cross cable fly,12/29/2019,30,12,3
+1726,cross cable fly,12/29/2019,30,12,4
+1727,cross cable fly,12/29/2019,30,12,5
+1728,tricep pushdown,12/29/2019,70,12,1
+1729,tricep pushdown,12/29/2019,70,12,2
+1730,tricep pushdown,12/29/2019,70,12,3
+1731,tricep pushdown,12/29/2019,60,12,4
+1732,tricep pushdown,12/29/2019,60,12,5
+1733,ab roller,12/29/2019,0,12,1
+1734,ab roller,12/29/2019,0,12,2
+1735,ab roller,12/29/2019,0,12,3
+1736,reverse ab crunch,12/29/2019,0,12,1
+1737,reverse ab crunch,12/29/2019,0,12,2
+1738,reverse ab crunch,12/29/2019,0,12,3
+1739,deadlift,12/31/2019,135,5,1
+1740,deadlift,12/31/2019,185,5,2
+1741,deadlift,12/31/2019,185,5,3
+1742,deadlift,12/31/2019,205,5,4
+1743,deadlift,12/31/2019,205,5,5
+1744,lateral pulldown,12/31/2019,90,12,1
+1745,lateral pulldown,12/31/2019,90,12,2
+1746,lateral pulldown,12/31/2019,90,12,3
+1747,lateral pulldown,12/31/2019,90,12,4
+1748,lateral pulldown,12/31/2019,90,12,5
+1749,dumbbell bicep curl,12/31/2019,20,12,1
+1750,dumbbell bicep curl,12/31/2019,20,12,2
+1751,dumbbell bicep curl,12/31/2019,20,12,3
+1752,dumbbell bicep curl,12/31/2019,20,12,4
+1753,dumbbell bicep curl,12/31/2019,20,12,5
+1754,crossbody hammer curl,12/31/2019,20,12,1
+1755,crossbody hammer curl,12/31/2019,20,12,2
+1756,crossbody hammer curl,12/31/2019,20,12,3
+1757,dumbbell shoulder press,12/31/2019,20,12,1
+1758,dumbbell shoulder press,12/31/2019,20,12,2
+1759,dumbbell shoulder press,12/31/2019,20,12,3
+1760,dumbbell shoulder press,12/31/2019,20,12,4
+1761,dumbbell shoulder press,12/31/2019,20,12,5
+1762,lateral raise,12/31/2019,20,12,1
+1763,lateral raise,12/31/2019,20,12,2
+1764,lateral raise,12/31/2019,20,12,3
+1765,squat,1/1/2020,185,5,1
+1766,squat,1/1/2020,185,5,2
+1767,squat,1/1/2020,205,5,3
+1768,squat,1/1/2020,205,5,4
+1769,squat,1/1/2020,205,5,5
+1770,leg extension,1/1/2020,90,12,1
+1771,leg extension,1/1/2020,90,12,2
+1772,leg extension,1/1/2020,90,12,3
+1773,leg extension,1/1/2020,90,12,4
+1774,leg extension,1/1/2020,90,12,5
+1775,prone leg curl,1/1/2020,60,12,1
+1776,prone leg curl,1/1/2020,60,12,2
+1777,prone leg curl,1/1/2020,50,12,3
+1778,prone leg curl,1/1/2020,50,12,4
+1779,prone leg curl,1/1/2020,50,12,5
+1780,calf raise,1/1/2020,240,12,1
+1781,calf raise,1/1/2020,240,12,2
+1782,calf raise,1/1/2020,240,12,3
+1783,calf raise,1/1/2020,240,12,4
+1784,calf raise,1/1/2020,240,12,5
+1785,bench press,1/2/2020,135,5,1
+1786,bench press,1/2/2020,155,5,2
+1787,bench press,1/2/2020,175,5,3
+1788,bench press,1/2/2020,195,5,4
+1789,bench press,1/2/2020,185,5,5
+1790,cross cable fly,1/2/2020,30,12,1
+1791,cross cable fly,1/2/2020,30,12,2
+1792,cross cable fly,1/2/2020,30,12,3
+1793,cross cable fly,1/2/2020,30,12,4
+1794,cross cable fly,1/2/2020,30,12,5
+1795,incline dumbbell press,1/2/2020,35,8,1
+1796,incline dumbbell press,1/2/2020,35,8,2
+1797,incline dumbbell press,1/2/2020,35,8,3
+1798,incline dumbbell press,1/2/2020,35,8,4
+1799,incline dumbbell press,1/2/2020,35,8,5
+1800,tricep pushdown,1/2/2020,70,12,1
+1801,tricep pushdown,1/2/2020,70,12,2
+1802,tricep pushdown,1/2/2020,70,12,3
+1803,tricep pushdown,1/2/2020,70,12,4
+1804,tricep pushdown,1/2/2020,70,12,5
+1805,deadlift,1/4/2020,185,5,1
+1806,deadlift,1/4/2020,205,5,2
+1807,deadlift,1/4/2020,225,5,3
+1808,deadlift,1/4/2020,225,5,4
+1809,deadlift,1/4/2020,225,5,5
+1810,lateral pulldown,1/4/2020,90,12,1
+1811,lateral pulldown,1/4/2020,90,12,2
+1812,lateral pulldown,1/4/2020,90,12,3
+1813,lateral pulldown,1/4/2020,90,12,4
+1814,lateral pulldown,1/4/2020,90,12,5
+1815,dumbbell bicep curl,1/4/2020,20,12,1
+1816,dumbbell bicep curl,1/4/2020,20,12,2
+1817,dumbbell bicep curl,1/4/2020,20,12,3
+1818,dumbbell bicep curl,1/4/2020,20,12,4
+1819,dumbbell bicep curl,1/4/2020,20,12,5
+1820,crossbody hammer curl,1/4/2020,20,12,1
+1821,crossbody hammer curl,1/4/2020,20,12,2
+1822,crossbody hammer curl,1/4/2020,20,12,3
+1823,crossbody hammer curl,1/4/2020,20,12,4
+1824,crossbody hammer curl,1/4/2020,20,12,5
+1825,ab roller,1/4/2020,0,12,1
+1826,ab roller,1/4/2020,0,12,2
+1827,ab roller,1/4/2020,0,12,3
+1828,ab roller,1/4/2020,0,12,4
+1829,ab roller,1/4/2020,0,12,5
+1830,reverse ab crunch,1/4/2020,0,12,1
+1831,reverse ab crunch,1/4/2020,0,12,2
+1832,reverse ab crunch,1/4/2020,0,12,3
+1833,squat,1/5/2020,185,5,1
+1834,squat,1/5/2020,205,5,2
+1835,squat,1/5/2020,225,5,3
+1836,squat,1/5/2020,245,5,4
+1837,squat,1/5/2020,225,5,5
+1838,leg extension,1/5/2020,90,12,1
+1839,leg extension,1/5/2020,90,12,2
+1840,leg extension,1/5/2020,90,12,3
+1841,leg extension,1/5/2020,90,12,4
+1842,leg extension,1/5/2020,90,12,5
+1843,calf raise,1/5/2020,240,12,1
+1844,calf raise,1/5/2020,240,12,2
+1845,calf raise,1/5/2020,240,12,3
+1846,calf raise,1/5/2020,240,12,4
+1847,calf raise,1/5/2020,240,12,5
+1848,dumbbell shoulder press,1/5/2020,20,12,1
+1849,dumbbell shoulder press,1/5/2020,20,12,2
+1850,dumbbell shoulder press,1/5/2020,20,12,3
+1851,dumbbell shoulder press,1/5/2020,20,12,4
+1852,dumbbell shoulder press,1/5/2020,20,12,5
+1853,lateral raise,1/5/2020,20,12,1
+1854,lateral raise,1/5/2020,20,12,2
+1855,lateral raise,1/5/2020,15,12,3
+1856,lateral raise,1/5/2020,15,12,4
+1857,lateral raise,1/5/2020,15,12,5
+1858,bench press,1/6/2020,135,5,1
+1859,bench press,1/6/2020,165,5,2
+1860,bench press,1/6/2020,175,5,3
+1861,bench press,1/6/2020,185,5,4
+1862,bench press,1/6/2020,155,5,5
+1863,incline dumbbell press,1/6/2020,35,8,1
+1864,incline dumbbell press,1/6/2020,35,8,2
+1865,incline dumbbell press,1/6/2020,35,8,3
+1866,incline dumbbell press,1/6/2020,35,8,4
+1867,incline dumbbell press,1/6/2020,35,8,5
+1868,cross cable fly,1/6/2020,30,12,1
+1869,cross cable fly,1/6/2020,30,12,2
+1870,cross cable fly,1/6/2020,30,12,3
+1871,cross cable fly,1/6/2020,30,12,4
+1872,cross cable fly,1/6/2020,30,12,5
+1873,tricep pushdown,1/6/2020,70,12,1
+1874,tricep pushdown,1/6/2020,70,12,2
+1875,tricep pushdown,1/6/2020,70,12,3
+1876,tricep pushdown,1/6/2020,70,12,4
+1877,tricep pushdown,1/6/2020,70,12,5
+1878,deadlift,1/7/2020,185,5,1
+1879,deadlift,1/7/2020,185,5,2
+1880,deadlift,1/7/2020,185,5,3
+1881,deadlift,1/7/2020,185,5,4
+1882,deadlift,1/7/2020,185,5,5
+1883,lateral pulldown,1/7/2020,90,12,1
+1884,lateral pulldown,1/7/2020,90,12,2
+1885,lateral pulldown,1/7/2020,90,12,3
+1886,lateral pulldown,1/7/2020,90,12,4
+1887,lateral pulldown,1/7/2020,90,12,5
+1888,dumbbell bicep curl,1/7/2020,20,12,1
+1889,dumbbell bicep curl,1/7/2020,20,12,2
+1890,dumbbell bicep curl,1/7/2020,20,12,3
+1891,dumbbell bicep curl,1/7/2020,20,12,4
+1892,dumbbell bicep curl,1/7/2020,20,12,5
+1893,crossbody hammer curl,1/7/2020,20,12,1
+1894,crossbody hammer curl,1/7/2020,20,12,2
+1895,crossbody hammer curl,1/7/2020,20,12,3
+1896,squat,1/9/2020,185,5,1
+1897,squat,1/9/2020,185,5,2
+1898,squat,1/9/2020,205,5,3
+1899,squat,1/9/2020,205,5,4
+1900,squat,1/9/2020,205,5,5
+1901,leg extension,1/9/2020,90,12,1
+1902,leg extension,1/9/2020,90,12,2
+1903,leg extension,1/9/2020,90,12,3
+1904,leg extension,1/9/2020,90,12,4
+1905,leg extension,1/9/2020,90,12,5
+1906,seated calf raise,1/9/2020,45,12,1
+1907,seated calf raise,1/9/2020,45,12,2
+1908,seated calf raise,1/9/2020,45,12,3
+1909,seated calf raise,1/9/2020,45,12,4
+1910,seated calf raise,1/9/2020,45,12,5
+1911,bench press,1/10/2020,135,5,1
+1912,bench press,1/10/2020,165,5,2
+1913,bench press,1/10/2020,185,5,3
+1914,bench press,1/10/2020,185,5,4
+1915,bench press,1/10/2020,155,5,5
+1916,incline dumbbell press,1/10/2020,40,8,1
+1917,incline dumbbell press,1/10/2020,40,8,2
+1918,incline dumbbell press,1/10/2020,40,8,3
+1919,incline dumbbell press,1/10/2020,40,8,4
+1920,incline dumbbell press,1/10/2020,40,8,5
+1921,cross cable fly,1/10/2020,30,12,1
+1922,cross cable fly,1/10/2020,30,12,2
+1923,cross cable fly,1/10/2020,30,12,3
+1924,cross cable fly,1/10/2020,30,12,4
+1925,cross cable fly,1/10/2020,30,12,5
+1926,tricep pushdown,1/10/2020,70,12,1
+1927,tricep pushdown,1/10/2020,70,12,2
+1928,tricep pushdown,1/10/2020,70,12,3
+1929,tricep pushdown,1/10/2020,70,12,4
+1930,tricep pushdown,1/10/2020,70,12,5
+1931,ab roller,1/10/2020,0,12,1
+1932,ab roller,1/10/2020,0,12,2
+1933,ab roller,1/10/2020,0,12,3
+1934,ab roller,1/10/2020,0,12,4
+1935,ab roller,1/10/2020,0,12,5
+1936,deadlift,1/11/2020,185,5,1
+1937,deadlift,1/11/2020,205,5,2
+1938,deadlift,1/11/2020,205,5,3
+1939,deadlift,1/11/2020,205,5,4
+1940,deadlift,1/11/2020,205,5,5
+1941,lateral pulldown,1/11/2020,90,12,1
+1942,lateral pulldown,1/11/2020,90,12,2
+1943,lateral pulldown,1/11/2020,90,12,3
+1944,lateral pulldown,1/11/2020,90,12,4
+1945,lateral pulldown,1/11/2020,90,12,5
+1946,dumbbell bicep curl,1/11/2020,20,12,1
+1947,dumbbell bicep curl,1/11/2020,20,12,2
+1948,dumbbell bicep curl,1/11/2020,20,12,3
+1949,dumbbell bicep curl,1/11/2020,20,12,4
+1950,dumbbell bicep curl,1/11/2020,20,12,5
+1951,crossbody hammer curl,1/11/2020,20,12,1
+1952,crossbody hammer curl,1/11/2020,20,12,2
+1953,crossbody hammer curl,1/11/2020,20,12,3
+1954,dumbbell shoulder press,1/11/2020,20,12,1
+1955,dumbbell shoulder press,1/11/2020,20,12,2
+1956,dumbbell shoulder press,1/11/2020,20,12,3
+1957,dumbbell shoulder press,1/11/2020,20,12,4
+1958,dumbbell shoulder press,1/11/2020,20,12,5
+1959,lateral raise,1/11/2020,20,12,1
+1960,lateral raise,1/11/2020,15,12,2
+1961,lateral raise,1/11/2020,15,12,3
+1962,lateral raise,1/11/2020,15,12,4
+1963,lateral raise,1/11/2020,15,12,5
+1964,squat,1/12/2020,185,5,1
+1965,squat,1/12/2020,185,5,2
+1966,squat,1/12/2020,205,5,3
+1967,squat,1/12/2020,225,5,4
+1968,squat,1/12/2020,225,5,5
+1969,leg extension,1/12/2020,90,12,1
+1970,leg extension,1/12/2020,90,12,2
+1971,leg extension,1/12/2020,90,12,3
+1972,leg extension,1/12/2020,90,12,4
+1973,leg extension,1/12/2020,90,12,5
+1974,prone leg curl,1/12/2020,50,12,1
+1975,prone leg curl,1/12/2020,50,12,2
+1976,prone leg curl,1/12/2020,50,12,3
+1977,prone leg curl,1/12/2020,50,12,4
+1978,prone leg curl,1/12/2020,50,12,5
+1979,calf raise,1/12/2020,240,12,1
+1980,calf raise,1/12/2020,240,12,2
+1981,calf raise,1/12/2020,240,12,3
+1982,calf raise,1/12/2020,240,12,4
+1983,calf raise,1/12/2020,240,12,5
+1984,bench press,1/13/2020,135,5,1
+1985,bench press,1/13/2020,155,5,2
+1986,bench press,1/13/2020,195,3,3
+1987,bench press,1/13/2020,185,5,4
+1988,bench press,1/13/2020,155,5,5
+1989,incline dumbbell press,1/13/2020,40,8,1
+1990,incline dumbbell press,1/13/2020,40,8,2
+1991,incline dumbbell press,1/13/2020,40,8,3
+1992,incline dumbbell press,1/13/2020,40,8,4
+1993,incline dumbbell press,1/13/2020,40,8,5
+1994,cross cable fly,1/13/2020,30,12,1
+1995,cross cable fly,1/13/2020,30,12,2
+1996,cross cable fly,1/13/2020,30,12,3
+1997,cross cable fly,1/13/2020,30,12,4
+1998,cross cable fly,1/13/2020,30,12,5
+1999,tricep pushdown,1/13/2020,70,12,1
+2000,tricep pushdown,1/13/2020,70,12,2
+2001,tricep pushdown,1/13/2020,70,12,3
+2002,tricep pushdown,1/13/2020,70,12,4
+2003,tricep pushdown,1/13/2020,70,12,5
+2004,deadlift,1/14/2020,185,5,1
+2005,deadlift,1/14/2020,185,5,2
+2006,deadlift,1/14/2020,185,5,3
+2007,deadlift,1/14/2020,205,5,4
+2008,deadlift,1/14/2020,205,5,5
+2009,lateral pulldown,1/14/2020,90,12,1
+2010,lateral pulldown,1/14/2020,90,12,2
+2011,lateral pulldown,1/14/2020,90,12,3
+2012,lateral pulldown,1/14/2020,90,12,4
+2013,lateral pulldown,1/14/2020,90,12,5
+2014,dumbbell bicep curl,1/14/2020,20,12,1
+2015,dumbbell bicep curl,1/14/2020,20,12,2
+2016,dumbbell bicep curl,1/14/2020,20,12,3
+2017,dumbbell bicep curl,1/14/2020,20,12,4
+2018,dumbbell bicep curl,1/14/2020,20,13,5
+2019,crossbody hammer curl,1/14/2020,20,12,1
+2020,crossbody hammer curl,1/14/2020,20,12,2
+2021,crossbody hammer curl,1/14/2020,20,12,3
+2022,squat,1/16/2020,185,5,1
+2023,squat,1/16/2020,205,5,2
+2024,squat,1/16/2020,205,5,3
+2025,squat,1/16/2020,205,5,4
+2026,squat,1/16/2020,205,5,5
+2027,leg extension,1/16/2020,90,12,1
+2028,leg extension,1/16/2020,90,12,2
+2029,leg extension,1/16/2020,90,12,3
+2030,leg extension,1/16/2020,90,12,4
+2031,leg extension,1/16/2020,90,12,5
+2032,calf raise,1/16/2020,240,12,1
+2033,calf raise,1/16/2020,240,12,2
+2034,calf raise,1/16/2020,240,12,3
+2035,calf raise,1/16/2020,240,12,4
+2036,calf raise,1/16/2020,240,12,5
+2037,ab roller,1/16/2020,0,12,1
+2038,ab roller,1/16/2020,0,12,2
+2039,ab roller,1/16/2020,0,12,3
+2040,ab roller,1/16/2020,0,12,4
+2041,ab roller,1/16/2020,0,12,5
+2042,reverse ab crunch,1/16/2020,0,12,1
+2043,reverse ab crunch,1/16/2020,0,12,2
+2044,reverse ab crunch,1/16/2020,0,12,3
+2045,reverse ab crunch,1/16/2020,0,12,4
+2046,reverse ab crunch,1/16/2020,0,12,5
+2047,bench press,1/17/2020,155,5,1
+2048,bench press,1/17/2020,175,5,2
+2049,bench press,1/17/2020,185,5,3
+2050,bench press,1/17/2020,185,5,4
+2051,bench press,1/17/2020,155,5,5
+2052,cross cable fly,1/17/2020,30,12,1
+2053,cross cable fly,1/17/2020,30,12,2
+2054,cross cable fly,1/17/2020,30,12,3
+2055,cross cable fly,1/17/2020,30,12,4
+2056,cross cable fly,1/17/2020,30,12,5
+2057,tricep pushdown,1/17/2020,70,12,1
+2058,tricep pushdown,1/17/2020,70,12,2
+2059,tricep pushdown,1/17/2020,70,12,3
+2060,tricep pushdown,1/17/2020,70,12,4
+2061,tricep pushdown,1/17/2020,70,12,5
+2062,deadlift,1/19/2020,185,5,1
+2063,deadlift,1/19/2020,185,5,2
+2064,deadlift,1/19/2020,185,5,3
+2065,deadlift,1/19/2020,185,5,4
+2066,deadlift,1/19/2020,185,5,5
+2067,lateral pulldown,1/19/2020,90,12,1
+2068,lateral pulldown,1/19/2020,90,12,2
+2069,lateral pulldown,1/19/2020,90,12,3
+2070,lateral pulldown,1/19/2020,90,12,4
+2071,lateral pulldown,1/19/2020,90,12,5
+2072,dumbbell bicep curl,1/19/2020,20,12,1
+2073,dumbbell bicep curl,1/19/2020,20,12,2
+2074,dumbbell bicep curl,1/19/2020,20,12,3
+2075,dumbbell bicep curl,1/19/2020,20,12,4
+2076,dumbbell bicep curl,1/19/2020,20,12,5
+2077,crossbody hammer curl,1/19/2020,20,12,1
+2078,crossbody hammer curl,1/19/2020,20,12,2
+2079,crossbody hammer curl,1/19/2020,20,12,3
+2080,dumbbell shoulder press,1/19/2020,20,12,1
+2081,dumbbell shoulder press,1/19/2020,20,12,2
+2082,dumbbell shoulder press,1/19/2020,20,12,3
+2083,dumbbell shoulder press,1/19/2020,20,12,4
+2084,dumbbell shoulder press,1/19/2020,20,12,5
+2085,lateral raise,1/19/2020,20,12,1
+2086,lateral raise,1/19/2020,20,12,2
+2087,lateral raise,1/19/2020,20,12,3
+2088,squat,1/20/2020,135,5,1
+2089,squat,1/20/2020,185,5,2
+2090,squat,1/20/2020,205,5,3
+2091,squat,1/20/2020,205,5,4
+2092,squat,1/20/2020,205,5,5
+2093,leg extension,1/20/2020,90,12,1
+2094,leg extension,1/20/2020,90,12,2
+2095,leg extension,1/20/2020,90,12,3
+2096,leg extension,1/20/2020,90,12,4
+2097,leg extension,1/20/2020,90,12,5
+2098,prone leg curl,1/20/2020,50,12,1
+2099,prone leg curl,1/20/2020,50,12,2
+2100,prone leg curl,1/20/2020,50,12,3
+2101,prone leg curl,1/20/2020,50,12,4
+2102,prone leg curl,1/20/2020,50,12,5
+2103,calf raise,1/20/2020,240,12,1
+2104,calf raise,1/20/2020,240,12,2
+2105,calf raise,1/20/2020,240,12,3
+2106,calf raise,1/20/2020,240,12,4
+2107,calf raise,1/20/2020,240,12,5
+2108,bench press,1/22/2020,135,5,1
+2109,bench press,1/22/2020,155,5,2
+2110,bench press,1/22/2020,185,5,3
+2111,bench press,1/22/2020,185,5,4
+2112,bench press,1/22/2020,185,5,5
+2113,cross cable fly,1/22/2020,30,12,1
+2114,cross cable fly,1/22/2020,30,12,2
+2115,cross cable fly,1/22/2020,30,12,3
+2116,cross cable fly,1/22/2020,30,12,4
+2117,cross cable fly,1/22/2020,30,12,5
+2118,incline dumbbell press,1/22/2020,40,8,1
+2119,incline dumbbell press,1/22/2020,40,8,2
+2120,incline dumbbell press,1/22/2020,40,8,3
+2121,incline dumbbell press,1/22/2020,40,8,4
+2122,incline dumbbell press,1/22/2020,40,8,5
+2123,tricep pushdown,1/22/2020,70,12,1
+2124,tricep pushdown,1/22/2020,70,12,2
+2125,tricep pushdown,1/22/2020,70,12,3
+2126,tricep pushdown,1/22/2020,70,12,4
+2127,tricep pushdown,1/22/2020,70,12,5
+2128,ab roller,1/22/2020,0,12,1
+2129,ab roller,1/22/2020,0,12,2
+2130,ab roller,1/22/2020,0,12,3
+2131,ab roller,1/22/2020,0,12,4
+2132,ab roller,1/22/2020,0,12,5
+2133,deadlift,1/24/2020,185,5,1
+2134,deadlift,1/24/2020,205,5,2
+2135,deadlift,1/24/2020,225,5,3
+2136,deadlift,1/24/2020,225,5,4
+2137,deadlift,1/24/2020,205,5,5
+2138,lateral pulldown,1/24/2020,90,12,1
+2139,lateral pulldown,1/24/2020,90,12,2
+2140,lateral pulldown,1/24/2020,90,12,3
+2141,lateral pulldown,1/24/2020,90,12,4
+2142,lateral pulldown,1/24/2020,90,12,5
+2143,dumbbell bicep curl,1/24/2020,25,12,1
+2144,dumbbell bicep curl,1/24/2020,25,12,2
+2145,dumbbell bicep curl,1/24/2020,25,12,3
+2146,dumbbell bicep curl,1/24/2020,25,12,4
+2147,dumbbell bicep curl,1/24/2020,25,12,5
+2148,crossbody hammer curl,1/24/2020,20,12,1
+2149,crossbody hammer curl,1/24/2020,20,12,2
+2150,crossbody hammer curl,1/24/2020,20,12,3
+2151,squat,1/25/2020,185,5,1
+2152,squat,1/25/2020,205,5,2
+2153,squat,1/25/2020,205,5,3
+2154,squat,1/25/2020,205,5,4
+2155,squat,1/25/2020,205,5,5
+2156,leg extension,1/25/2020,90,12,1
+2157,leg extension,1/25/2020,90,12,2
+2158,leg extension,1/25/2020,90,12,3
+2159,leg extension,1/25/2020,90,12,4
+2160,leg extension,1/25/2020,90,12,5
+2161,calf raise,1/25/2020,240,12,1
+2162,calf raise,1/25/2020,240,12,2
+2163,calf raise,1/25/2020,240,12,3
+2164,calf raise,1/25/2020,240,12,4
+2165,calf raise,1/25/2020,240,12,5
+2166,dumbbell shoulder press,1/25/2020,20,12,1
+2167,dumbbell shoulder press,1/25/2020,20,12,2
+2168,dumbbell shoulder press,1/25/2020,20,12,3
+2169,dumbbell shoulder press,1/25/2020,20,12,4
+2170,dumbbell shoulder press,1/25/2020,20,12,5
+2171,lateral raise,1/25/2020,20,12,1
+2172,lateral raise,1/25/2020,20,12,2
+2173,lateral raise,1/25/2020,20,12,3
+2174,lateral raise,1/25/2020,20,12,4
+2175,lateral raise,1/25/2020,20,12,5
+2176,bench press,1/26/2020,155,5,1
+2177,bench press,1/26/2020,185,5,2
+2178,bench press,1/26/2020,185,5,3
+2179,bench press,1/26/2020,155,5,4
+2180,bench press,1/26/2020,155,5,5
+2181,cross cable fly,1/26/2020,30,12,1
+2182,cross cable fly,1/26/2020,30,12,2
+2183,cross cable fly,1/26/2020,30,12,3
+2184,cross cable fly,1/26/2020,30,12,4
+2185,cross cable fly,1/26/2020,30,12,5
+2186,incline dumbbell press,1/26/2020,40,8,1
+2187,incline dumbbell press,1/26/2020,40,8,2
+2188,incline dumbbell press,1/26/2020,40,8,3
+2189,incline dumbbell press,1/26/2020,40,8,4
+2190,incline dumbbell press,1/26/2020,40,8,5
+2191,tricep pushdown,1/26/2020,70,12,1
+2192,tricep pushdown,1/26/2020,70,12,2
+2193,tricep pushdown,1/26/2020,70,12,3
+2194,tricep pushdown,1/26/2020,70,12,4
+2195,tricep pushdown,1/26/2020,70,12,5
+2196,reverse ab crunch,1/26/2020,0,12,1
+2197,reverse ab crunch,1/26/2020,0,12,2
+2198,reverse ab crunch,1/26/2020,0,12,3
+2199,reverse ab crunch,1/26/2020,0,12,4
+2200,reverse ab crunch,1/26/2020,0,12,5
+2201,deadlift,1/28/2020,135,5,1
+2202,deadlift,1/28/2020,185,5,2
+2203,deadlift,1/28/2020,205,5,3
+2204,deadlift,1/28/2020,225,5,4
+2205,deadlift,1/28/2020,225,5,5
+2206,lateral pulldown,1/28/2020,90,12,1
+2207,lateral pulldown,1/28/2020,90,12,2
+2208,lateral pulldown,1/28/2020,90,12,3
+2209,lateral pulldown,1/28/2020,90,12,4
+2210,lateral pulldown,1/28/2020,90,12,5
+2211,dumbbell bicep curl,1/28/2020,25,12,1
+2212,dumbbell bicep curl,1/28/2020,25,12,2
+2213,dumbbell bicep curl,1/28/2020,25,12,3
+2214,dumbbell bicep curl,1/28/2020,25,12,4
+2215,dumbbell bicep curl,1/28/2020,25,12,5
+2216,crossbody hammer curl,1/28/2020,20,12,1
+2217,crossbody hammer curl,1/28/2020,20,12,2
+2218,crossbody hammer curl,1/28/2020,20,12,3
+2219,dumbbell shoulder press,1/28/2020,20,12,1
+2220,dumbbell shoulder press,1/28/2020,20,12,2
+2221,dumbbell shoulder press,1/28/2020,20,12,3
+2222,dumbbell shoulder press,1/28/2020,20,12,4
+2223,dumbbell shoulder press,1/28/2020,20,12,5
+2224,lateral raise,1/28/2020,20,12,1
+2225,lateral raise,1/28/2020,20,12,2
+2226,lateral raise,1/28/2020,20,12,3
+2227,squat,1/29/2020,135,5,1
+2228,squat,1/29/2020,185,5,2
+2229,squat,1/29/2020,205,5,3
+2230,squat,1/29/2020,225,5,4
+2231,squat,1/29/2020,205,5,5
+2232,leg extension,1/29/2020,90,12,1
+2233,leg extension,1/29/2020,90,12,2
+2234,leg extension,1/29/2020,90,12,3
+2235,leg extension,1/29/2020,90,12,4
+2236,leg extension,1/29/2020,90,12,5
+2237,calf raise,1/29/2020,240,12,1
+2238,calf raise,1/29/2020,240,12,2
+2239,calf raise,1/29/2020,240,12,3
+2240,calf raise,1/29/2020,240,12,4
+2241,calf raise,1/29/2020,240,12,5
+2242,bench press,1/30/2020,155,5,1
+2243,bench press,1/30/2020,185,5,2
+2244,bench press,1/30/2020,205,2,3
+2245,bench press,1/30/2020,185,5,4
+2246,bench press,1/30/2020,155,5,5
+2247,incline dumbbell press,1/30/2020,40,8,1
+2248,incline dumbbell press,1/30/2020,40,8,2
+2249,incline dumbbell press,1/30/2020,40,8,3
+2250,incline dumbbell press,1/30/2020,40,8,4
+2251,incline dumbbell press,1/30/2020,40,8,5
+2252,cross cable fly,1/30/2020,30,12,1
+2253,cross cable fly,1/30/2020,30,12,2
+2254,cross cable fly,1/30/2020,30,12,3
+2255,cross cable fly,1/30/2020,30,12,4
+2256,cross cable fly,1/30/2020,30,12,5
+2257,tricep pushdown,1/30/2020,70,12,1
+2258,tricep pushdown,1/30/2020,70,12,2
+2259,tricep pushdown,1/30/2020,70,12,3
+2260,tricep pushdown,1/30/2020,70,12,4
+2261,tricep pushdown,1/30/2020,70,12,5
+2262,reverse ab crunch,1/30/2020,0,12,1
+2263,reverse ab crunch,1/30/2020,0,12,2
+2264,reverse ab crunch,1/30/2020,0,12,3
+2265,reverse ab crunch,1/30/2020,0,12,4
+2266,reverse ab crunch,1/30/2020,0,12,5
+2267,deadlift,1/31/2020,185,5,1
+2268,deadlift,1/31/2020,185,5,2
+2269,deadlift,1/31/2020,185,5,3
+2270,deadlift,1/31/2020,185,5,4
+2271,deadlift,1/31/2020,185,5,5
+2272,lateral pulldown,1/31/2020,90,12,1
+2273,lateral pulldown,1/31/2020,90,12,2
+2274,lateral pulldown,1/31/2020,90,12,3
+2275,lateral pulldown,1/31/2020,90,12,4
+2276,lateral pulldown,1/31/2020,90,12,5
+2277,dumbbell bicep curl,1/31/2020,25,12,1
+2278,dumbbell bicep curl,1/31/2020,25,12,2
+2279,dumbbell bicep curl,1/31/2020,25,12,3
+2280,dumbbell bicep curl,1/31/2020,25,12,4
+2281,dumbbell bicep curl,1/31/2020,25,12,5
+2282,crossbody hammer curl,1/31/2020,20,12,1
+2283,crossbody hammer curl,1/31/2020,20,12,2
+2284,crossbody hammer curl,1/31/2020,20,12,3
+2285,dumbbell shoulder press,1/31/2020,20,12,1
+2286,dumbbell shoulder press,1/31/2020,20,12,2
+2287,dumbbell shoulder press,1/31/2020,20,12,3
+2288,dumbbell shoulder press,1/31/2020,20,12,4
+2289,dumbbell shoulder press,1/31/2020,20,12,5
+2290,lateral raise,1/31/2020,20,12,1
+2291,lateral raise,1/31/2020,20,12,2
+2292,lateral raise,1/31/2020,20,12,3
+2293,squat,2/1/2020,135,5,1
+2294,squat,2/1/2020,185,5,2
+2295,squat,2/1/2020,185,5,3
+2296,squat,2/1/2020,185,5,4
+2297,squat,2/1/2020,185,5,5
+2298,leg extension,2/1/2020,90,12,1
+2299,leg extension,2/1/2020,90,12,2
+2300,leg extension,2/1/2020,90,12,3
+2301,leg extension,2/1/2020,90,12,4
+2302,leg extension,2/1/2020,90,12,5
+2303,prone leg curl,2/1/2020,50,12,1
+2304,prone leg curl,2/1/2020,50,12,2
+2305,prone leg curl,2/1/2020,50,12,3
+2306,prone leg curl,2/1/2020,50,12,4
+2307,prone leg curl,2/1/2020,50,12,5
+2308,calf raise,2/1/2020,240,12,1
+2309,calf raise,2/1/2020,240,12,2
+2310,calf raise,2/1/2020,240,12,3
+2311,calf raise,2/1/2020,240,12,4
+2312,calf raise,2/1/2020,240,12,5
+2313,bench press,2/3/2020,155,5,1
+2314,bench press,2/3/2020,185,5,2
+2315,bench press,2/3/2020,185,5,3
+2316,bench press,2/3/2020,185,5,4
+2317,bench press,2/3/2020,155,5,5
+2318,incline dumbbell press,2/3/2020,40,8,1
+2319,incline dumbbell press,2/3/2020,40,8,2
+2320,incline dumbbell press,2/3/2020,40,8,3
+2321,incline dumbbell press,2/3/2020,40,8,4
+2322,incline dumbbell press,2/3/2020,40,8,5
+2323,cross cable fly,2/3/2020,30,12,1
+2324,cross cable fly,2/3/2020,30,12,2
+2325,cross cable fly,2/3/2020,30,12,3
+2326,cross cable fly,2/3/2020,30,12,4
+2327,cross cable fly,2/3/2020,30,12,5
+2328,tricep pushdown,2/3/2020,70,12,1
+2329,tricep pushdown,2/3/2020,70,12,2
+2330,tricep pushdown,2/3/2020,70,12,3
+2331,tricep pushdown,2/3/2020,70,12,4
+2332,tricep pushdown,2/3/2020,70,12,5
+2333,reverse ab crunch,2/3/2020,0,12,1
+2334,reverse ab crunch,2/3/2020,0,12,2
+2335,reverse ab crunch,2/3/2020,0,12,3
+2336,reverse ab crunch,2/3/2020,0,12,4
+2337,reverse ab crunch,2/3/2020,0,12,5
+2338,lateral pulldown,2/5/2020,90,12,1
+2339,lateral pulldown,2/5/2020,90,12,2
+2340,lateral pulldown,2/5/2020,90,12,3
+2341,lateral pulldown,2/5/2020,90,12,4
+2342,lateral pulldown,2/5/2020,90,12,5
+2343,deadlift,2/5/2020,185,5,1
+2344,deadlift,2/5/2020,185,5,2
+2345,deadlift,2/5/2020,205,5,3
+2346,deadlift,2/5/2020,205,5,4
+2347,deadlift,2/5/2020,205,5,5
+2348,dumbbell bicep curl,2/5/2020,25,12,1
+2349,dumbbell bicep curl,2/5/2020,25,12,2
+2350,dumbbell bicep curl,2/5/2020,25,12,3
+2351,dumbbell bicep curl,2/5/2020,25,12,4
+2352,dumbbell bicep curl,2/5/2020,25,12,5
+2353,crossbody hammer curl,2/5/2020,20,12,1
+2354,crossbody hammer curl,2/5/2020,20,12,2
+2355,crossbody hammer curl,2/5/2020,20,12,3
+2356,squat,2/6/2020,185,5,1
+2357,squat,2/6/2020,185,5,2
+2358,squat,2/6/2020,185,5,3
+2359,squat,2/6/2020,185,5,4
+2360,squat,2/6/2020,185,5,5
+2361,leg extension,2/6/2020,90,12,1
+2362,leg extension,2/6/2020,90,12,2
+2363,leg extension,2/6/2020,90,12,3
+2364,leg extension,2/6/2020,90,12,4
+2365,leg extension,2/6/2020,90,12,5
+2366,calf raise,2/6/2020,240,12,1
+2367,calf raise,2/6/2020,240,12,2
+2368,calf raise,2/6/2020,240,12,3
+2369,calf raise,2/6/2020,240,12,4
+2370,calf raise,2/6/2020,240,12,5
+2371,dumbbell shoulder press,2/6/2020,20,12,1
+2372,dumbbell shoulder press,2/6/2020,20,12,2
+2373,dumbbell shoulder press,2/6/2020,20,12,3
+2374,dumbbell shoulder press,2/6/2020,20,12,4
+2375,dumbbell shoulder press,2/6/2020,20,12,5
+2376,lateral raise,2/6/2020,20,12,1
+2377,lateral raise,2/6/2020,20,12,2
+2378,lateral raise,2/6/2020,20,12,3
+2379,bench press,2/7/2020,135,5,1
+2380,bench press,2/7/2020,155,5,2
+2381,bench press,2/7/2020,185,5,3
+2382,bench press,2/7/2020,185,5,4
+2383,bench press,2/7/2020,185,5,5
+2384,incline dumbbell press,2/7/2020,45,8,1
+2385,incline dumbbell press,2/7/2020,45,8,2
+2386,incline dumbbell press,2/7/2020,45,8,3
+2387,incline dumbbell press,2/7/2020,45,8,4
+2388,incline dumbbell press,2/7/2020,45,8,5
+2389,cross cable fly,2/7/2020,30,12,1
+2390,cross cable fly,2/7/2020,30,12,2
+2391,cross cable fly,2/7/2020,30,12,3
+2392,cross cable fly,2/7/2020,30,12,4
+2393,cross cable fly,2/7/2020,30,12,5
+2394,tricep pushdown,2/7/2020,70,12,1
+2395,tricep pushdown,2/7/2020,70,12,2
+2396,tricep pushdown,2/7/2020,70,12,3
+2397,tricep pushdown,2/7/2020,70,12,4
+2398,tricep pushdown,2/7/2020,70,12,5
+2399,deadlift,2/8/2020,185,5,1
+2400,deadlift,2/8/2020,205,5,2
+2401,deadlift,2/8/2020,205,5,3
+2402,deadlift,2/8/2020,205,5,4
+2403,deadlift,2/8/2020,185,5,5
+2404,lateral pulldown,2/8/2020,90,12,1
+2405,lateral pulldown,2/8/2020,90,12,2
+2406,lateral pulldown,2/8/2020,90,12,3
+2407,lateral pulldown,2/8/2020,90,12,4
+2408,lateral pulldown,2/8/2020,90,12,5
+2409,dumbbell bicep curl,2/8/2020,25,12,1
+2410,dumbbell bicep curl,2/8/2020,25,12,2
+2411,dumbbell bicep curl,2/8/2020,25,12,3
+2412,dumbbell bicep curl,2/8/2020,25,12,4
+2413,dumbbell bicep curl,2/8/2020,25,12,5
+2414,crossbody hammer curl,2/8/2020,20,12,1
+2415,crossbody hammer curl,2/8/2020,20,12,2
+2416,crossbody hammer curl,2/8/2020,20,12,3
+2417,ab roller,2/8/2020,0,12,1
+2418,ab roller,2/8/2020,0,12,2
+2419,ab roller,2/8/2020,0,12,3
+2420,ab roller,2/8/2020,0,12,4
+2421,ab roller,2/8/2020,0,12,5
+2422,squat,2/9/2020,185,5,1
+2423,squat,2/9/2020,185,5,2
+2424,squat,2/9/2020,185,5,3
+2425,squat,2/9/2020,185,5,4
+2426,squat,2/9/2020,185,5,5
+2427,leg extension,2/9/2020,90,12,1
+2428,leg extension,2/9/2020,90,12,2
+2429,leg extension,2/9/2020,90,12,3
+2430,leg extension,2/9/2020,90,12,4
+2431,leg extension,2/9/2020,90,12,5
+2432,calf raise,2/9/2020,240,12,1
+2433,calf raise,2/9/2020,240,12,2
+2434,calf raise,2/9/2020,240,12,3
+2435,calf raise,2/9/2020,240,12,4
+2436,calf raise,2/9/2020,240,12,5
+2437,dumbbell shoulder press,2/9/2020,25,12,1
+2438,dumbbell shoulder press,2/9/2020,25,12,2
+2439,dumbbell shoulder press,2/9/2020,25,12,3
+2440,dumbbell shoulder press,2/9/2020,25,12,4
+2441,dumbbell shoulder press,2/9/2020,25,12,5
+2442,lateral raise,2/9/2020,20,12,1
+2443,lateral raise,2/9/2020,20,12,2
+2444,lateral raise,2/9/2020,20,12,3
+2445,lateral raise,2/9/2020,20,12,4
+2446,lateral raise,2/9/2020,20,12,5
+2447,incline dumbbell press,2/10/2020,45,8,1
+2448,incline dumbbell press,2/10/2020,45,8,2
+2449,incline dumbbell press,2/10/2020,45,8,3
+2450,incline dumbbell press,2/10/2020,45,8,4
+2451,incline dumbbell press,2/10/2020,45,8,5
+2452,bench press,2/10/2020,155,5,1
+2453,bench press,2/10/2020,185,5,2
+2454,bench press,2/10/2020,185,5,3
+2455,bench press,2/10/2020,135,5,4
+2456,bench press,2/10/2020,135,5,5
+2457,cross cable fly,2/10/2020,30,12,1
+2458,cross cable fly,2/10/2020,30,12,2
+2459,cross cable fly,2/10/2020,30,12,3
+2460,cross cable fly,2/10/2020,30,12,4
+2461,cross cable fly,2/10/2020,30,12,5
+2462,tricep pushdown,2/10/2020,70,12,1
+2463,tricep pushdown,2/10/2020,70,12,2
+2464,tricep pushdown,2/10/2020,70,12,3
+2465,tricep pushdown,2/10/2020,70,12,4
+2466,tricep pushdown,2/10/2020,70,12,5
+2467,deadlift,2/12/2020,185,5,1
+2468,deadlift,2/12/2020,185,5,2
+2469,deadlift,2/12/2020,205,5,3
+2470,deadlift,2/12/2020,205,5,4
+2471,deadlift,2/12/2020,205,5,5
+2472,lateral pulldown,2/12/2020,90,12,1
+2473,lateral pulldown,2/12/2020,90,12,2
+2474,lateral pulldown,2/12/2020,90,12,3
+2475,lateral pulldown,2/12/2020,90,12,4
+2476,lateral pulldown,2/12/2020,90,12,5
+2477,dumbbell bicep curl,2/12/2020,25,12,1
+2478,dumbbell bicep curl,2/12/2020,25,12,2
+2479,dumbbell bicep curl,2/12/2020,25,12,3
+2480,dumbbell bicep curl,2/12/2020,25,12,4
+2481,dumbbell bicep curl,2/12/2020,25,12,5
+2482,crossbody hammer curl,2/12/2020,20,12,1
+2483,crossbody hammer curl,2/12/2020,20,12,2
+2484,crossbody hammer curl,2/12/2020,20,12,3
+2485,ab roller,2/12/2020,0,12,1
+2486,ab roller,2/12/2020,0,12,2
+2487,ab roller,2/12/2020,0,12,3
+2488,ab roller,2/12/2020,0,12,4
+2489,ab roller,2/12/2020,0,12,5
+2490,squat,2/13/2020,185,5,1
+2491,squat,2/13/2020,205,5,2
+2492,squat,2/13/2020,205,5,3
+2493,squat,2/13/2020,205,5,4
+2494,squat,2/13/2020,205,5,5
+2495,leg extension,2/13/2020,90,12,1
+2496,leg extension,2/13/2020,90,12,2
+2497,leg extension,2/13/2020,90,12,3
+2498,leg extension,2/13/2020,90,12,4
+2499,leg extension,2/13/2020,90,12,5
+2500,calf raise,2/13/2020,240,12,1
+2501,calf raise,2/13/2020,240,12,2
+2502,calf raise,2/13/2020,240,12,3
+2503,calf raise,2/13/2020,240,12,4
+2504,calf raise,2/13/2020,240,12,5
+2505,dumbbell shoulder press,2/13/2020,25,12,1
+2506,dumbbell shoulder press,2/13/2020,25,12,2
+2507,dumbbell shoulder press,2/13/2020,25,12,3
+2508,dumbbell shoulder press,2/13/2020,25,12,4
+2509,dumbbell shoulder press,2/13/2020,25,12,5
+2510,lateral raise,2/13/2020,20,12,1
+2511,lateral raise,2/13/2020,20,12,2
+2512,lateral raise,2/13/2020,20,12,3
+2513,bench press,2/15/2020,155,5,1
+2514,bench press,2/15/2020,185,5,2
+2515,bench press,2/15/2020,185,5,3
+2516,bench press,2/15/2020,185,5,4
+2517,bench press,2/15/2020,155,5,5
+2518,incline dumbbell press,2/15/2020,45,8,1
+2519,incline dumbbell press,2/15/2020,45,8,2
+2520,incline dumbbell press,2/15/2020,45,8,3
+2521,incline dumbbell press,2/15/2020,45,8,4
+2522,incline dumbbell press,2/15/2020,45,8,5
+2523,cross cable fly,2/15/2020,30,12,1
+2524,cross cable fly,2/15/2020,30,12,2
+2525,cross cable fly,2/15/2020,30,12,3
+2526,cross cable fly,2/15/2020,30,12,4
+2527,cross cable fly,2/15/2020,30,12,5
+2528,tricep pushdown,2/15/2020,70,12,1
+2529,tricep pushdown,2/15/2020,70,12,2
+2530,tricep pushdown,2/15/2020,70,12,3
+2531,tricep pushdown,2/15/2020,70,12,4
+2532,tricep pushdown,2/15/2020,70,12,5
+2533,ab roller,2/15/2020,0,12,1
+2534,ab roller,2/15/2020,0,12,2
+2535,ab roller,2/15/2020,0,12,3
+2536,ab roller,2/15/2020,0,12,4
+2537,ab roller,2/15/2020,0,12,5
+2538,reverse ab crunch,2/15/2020,0,12,1
+2539,reverse ab crunch,2/15/2020,0,12,2
+2540,reverse ab crunch,2/15/2020,0,12,3
+2541,reverse ab crunch,2/15/2020,0,12,4
+2542,reverse ab crunch,2/15/2020,0,12,5
+2543,deadlift,2/16/2020,185,5,1
+2544,deadlift,2/16/2020,185,5,2
+2545,deadlift,2/16/2020,185,5,3
+2546,deadlift,2/16/2020,185,5,4
+2547,deadlift,2/16/2020,185,5,5
+2548,lateral pulldown,2/16/2020,90,12,1
+2549,lateral pulldown,2/16/2020,90,12,2
+2550,lateral pulldown,2/16/2020,90,12,3
+2551,lateral pulldown,2/16/2020,90,12,4
+2552,lateral pulldown,2/16/2020,90,12,5
+2553,dumbbell bicep curl,2/16/2020,25,12,1
+2554,dumbbell bicep curl,2/16/2020,25,12,2
+2555,dumbbell bicep curl,2/16/2020,25,12,3
+2556,dumbbell bicep curl,2/16/2020,25,12,4
+2557,dumbbell bicep curl,2/16/2020,25,12,5
+2558,crossbody hammer curl,2/16/2020,20,12,1
+2559,crossbody hammer curl,2/16/2020,20,12,2
+2560,crossbody hammer curl,2/16/2020,20,12,3
+2561,squat,2/17/2020,185,5,1
+2562,squat,2/17/2020,185,5,2
+2563,squat,2/17/2020,185,5,3
+2564,squat,2/17/2020,185,5,4
+2565,squat,2/17/2020,185,5,5
+2566,leg extension,2/17/2020,90,12,1
+2567,leg extension,2/17/2020,90,12,2
+2568,leg extension,2/17/2020,90,12,3
+2569,leg extension,2/17/2020,90,12,4
+2570,leg extension,2/17/2020,90,12,5
+2571,calf raise,2/17/2020,240,12,1
+2572,calf raise,2/17/2020,240,12,2
+2573,calf raise,2/17/2020,240,12,3
+2574,calf raise,2/17/2020,240,12,4
+2575,calf raise,2/17/2020,240,12,5
+2576,dumbbell shoulder press,2/17/2020,25,12,1
+2577,dumbbell shoulder press,2/17/2020,25,12,2
+2578,dumbbell shoulder press,2/17/2020,25,12,3
+2579,dumbbell shoulder press,2/17/2020,25,12,4
+2580,dumbbell shoulder press,2/17/2020,25,12,5
+2581,lateral raise,2/17/2020,20,12,1
+2582,lateral raise,2/17/2020,20,12,2
+2583,lateral raise,2/17/2020,20,12,3
+2584,bench press,2/19/2020,155,5,1
+2585,bench press,2/19/2020,185,5,2
+2586,bench press,2/19/2020,205,2,3
+2587,bench press,2/19/2020,185,5,4
+2588,bench press,2/19/2020,155,5,5
+2589,cross cable fly,2/19/2020,30,12,1
+2590,cross cable fly,2/19/2020,30,12,2
+2591,cross cable fly,2/19/2020,30,12,3
+2592,cross cable fly,2/19/2020,30,12,4
+2593,cross cable fly,2/19/2020,30,12,5
+2594,incline dumbbell press,2/19/2020,45,8,1
+2595,incline dumbbell press,2/19/2020,45,8,2
+2596,incline dumbbell press,2/19/2020,45,8,3
+2597,incline dumbbell press,2/19/2020,45,8,4
+2598,incline dumbbell press,2/19/2020,45,8,5
+2599,tricep pushdown,2/19/2020,70,12,1
+2600,tricep pushdown,2/19/2020,70,12,2
+2601,tricep pushdown,2/19/2020,70,12,3
+2602,tricep pushdown,2/19/2020,70,12,4
+2603,tricep pushdown,2/19/2020,70,12,5
+2604,ab roller,2/19/2020,0,12,1
+2605,ab roller,2/19/2020,0,12,2
+2606,ab roller,2/19/2020,0,12,3
+2607,ab roller,2/19/2020,0,12,4
+2608,ab roller,2/19/2020,0,12,5
+2609,reverse ab crunch,2/19/2020,0,12,1
+2610,reverse ab crunch,2/19/2020,0,12,2
+2611,reverse ab crunch,2/19/2020,0,12,3
+2612,reverse ab crunch,2/19/2020,0,12,4
+2613,reverse ab crunch,2/19/2020,0,12,5
+2614,deadlift,2/20/2020,185,5,1
+2615,deadlift,2/20/2020,185,5,2
+2616,deadlift,2/20/2020,185,5,3
+2617,deadlift,2/20/2020,185,5,4
+2618,deadlift,2/20/2020,185,5,5
+2619,lateral pulldown,2/20/2020,90,12,1
+2620,lateral pulldown,2/20/2020,90,12,2
+2621,lateral pulldown,2/20/2020,90,12,3
+2622,lateral pulldown,2/20/2020,90,12,4
+2623,lateral pulldown,2/20/2020,90,12,5
+2624,close grip lateral pulldown,2/20/2020,75,12,1
+2625,close grip lateral pulldown,2/20/2020,90,12,2
+2626,close grip lateral pulldown,2/20/2020,90,12,3
+2627,dumbbell bicep curl,2/20/2020,25,12,1
+2628,dumbbell bicep curl,2/20/2020,25,12,2
+2629,dumbbell bicep curl,2/20/2020,25,12,3
+2630,dumbbell bicep curl,2/20/2020,25,12,4
+2631,dumbbell bicep curl,2/20/2020,25,12,5
+2632,squat,2/24/2020,185,5,1
+2633,squat,2/24/2020,185,5,2
+2634,squat,2/24/2020,185,5,3
+2635,squat,2/24/2020,185,5,4
+2636,squat,2/24/2020,185,5,5
+2637,leg extension,2/24/2020,90,12,1
+2638,leg extension,2/24/2020,90,12,2
+2639,leg extension,2/24/2020,90,12,3
+2640,leg extension,2/24/2020,90,12,4
+2641,leg extension,2/24/2020,90,12,5
+2642,calf raise,2/24/2020,240,12,1
+2643,calf raise,2/24/2020,240,12,2
+2644,calf raise,2/24/2020,240,12,3
+2645,calf raise,2/24/2020,240,12,4
+2646,calf raise,2/24/2020,240,12,5
+2647,dumbbell shoulder press,2/24/2020,25,12,1
+2648,dumbbell shoulder press,2/24/2020,25,12,2
+2649,dumbbell shoulder press,2/24/2020,25,12,3
+2650,dumbbell shoulder press,2/24/2020,25,12,4
+2651,dumbbell shoulder press,2/24/2020,25,12,5
+2652,lateral raise,2/24/2020,20,12,1
+2653,lateral raise,2/24/2020,20,12,2
+2654,lateral raise,2/24/2020,20,12,3
+2655,bench press,2/25/2020,155,5,1
+2656,bench press,2/25/2020,185,5,2
+2657,bench press,2/25/2020,185,5,3
+2658,bench press,2/25/2020,185,5,4
+2659,bench press,2/25/2020,155,5,5
+2660,incline dumbbell press,2/25/2020,45,8,1
+2661,incline dumbbell press,2/25/2020,45,8,2
+2662,incline dumbbell press,2/25/2020,45,8,3
+2663,incline dumbbell press,2/25/2020,45,8,4
+2664,incline dumbbell press,2/25/2020,45,8,5
+2665,cross cable fly,2/25/2020,30,12,1
+2666,cross cable fly,2/25/2020,30,12,2
+2667,cross cable fly,2/25/2020,30,12,3
+2668,cross cable fly,2/25/2020,30,12,4
+2669,cross cable fly,2/25/2020,30,12,5
+2670,tricep pushdown,2/25/2020,70,12,1
+2671,tricep pushdown,2/25/2020,70,12,2
+2672,tricep pushdown,2/25/2020,70,12,3
+2673,tricep pushdown,2/25/2020,70,12,4
+2674,tricep pushdown,2/25/2020,70,12,5
+2675,ab roller,2/25/2020,0,12,1
+2676,ab roller,2/25/2020,0,12,2
+2677,ab roller,2/25/2020,0,12,3
+2678,ab roller,2/25/2020,0,12,4
+2679,ab roller,2/25/2020,0,12,5
+2680,deadlift,2/26/2020,185,5,1
+2681,deadlift,2/26/2020,185,5,2
+2682,deadlift,2/26/2020,185,5,3
+2683,deadlift,2/26/2020,185,5,4
+2684,deadlift,2/26/2020,185,5,5
+2685,lateral pulldown,2/26/2020,90,12,1
+2686,lateral pulldown,2/26/2020,90,12,2
+2687,lateral pulldown,2/26/2020,90,12,3
+2688,lateral pulldown,2/26/2020,90,12,4
+2689,lateral pulldown,2/26/2020,90,12,5
+2690,dumbbell bicep curl,2/26/2020,25,12,1
+2691,dumbbell bicep curl,2/26/2020,25,12,2
+2692,dumbbell bicep curl,2/26/2020,25,12,3
+2693,dumbbell bicep curl,2/26/2020,25,12,4
+2694,dumbbell bicep curl,2/26/2020,25,12,5
+2695,crossbody hammer curl,2/26/2020,20,12,1
+2696,crossbody hammer curl,2/26/2020,20,12,2
+2697,crossbody hammer curl,2/26/2020,20,12,3
+2698,squat,2/27/2020,185,5,1
+2699,squat,2/27/2020,185,5,2
+2700,squat,2/27/2020,185,5,3
+2701,squat,2/27/2020,185,5,4
+2702,squat,2/27/2020,185,5,5
+2703,leg extension,2/27/2020,90,12,1
+2704,leg extension,2/27/2020,90,12,2
+2705,leg extension,2/27/2020,90,12,3
+2706,leg extension,2/27/2020,90,12,4
+2707,leg extension,2/27/2020,90,12,5
+2708,calf raise,2/27/2020,240,12,1
+2709,calf raise,2/27/2020,240,12,2
+2710,calf raise,2/27/2020,240,12,3
+2711,calf raise,2/27/2020,240,12,4
+2712,calf raise,2/27/2020,240,12,5
+2713,dumbbell shoulder press,2/27/2020,25,12,1
+2714,dumbbell shoulder press,2/27/2020,25,12,2
+2715,dumbbell shoulder press,2/27/2020,25,12,3
+2716,dumbbell shoulder press,2/27/2020,25,12,4
+2717,dumbbell shoulder press,2/27/2020,25,12,5
+2718,lateral raise,2/27/2020,20,12,1
+2719,lateral raise,2/27/2020,20,12,2
+2720,lateral raise,2/27/2020,20,12,3
+2721,lateral raise,2/27/2020,20,12,4
+2722,lateral raise,2/27/2020,20,12,5
+2723,bench press,2/29/2020,155,5,1
+2724,bench press,2/29/2020,185,5,2
+2725,bench press,2/29/2020,185,5,3
+2726,bench press,2/29/2020,185,5,4
+2727,bench press,2/29/2020,155,5,5
+2728,incline dumbbell press,2/29/2020,45,8,1
+2729,incline dumbbell press,2/29/2020,45,8,2
+2730,incline dumbbell press,2/29/2020,45,8,3
+2731,incline dumbbell press,2/29/2020,45,8,4
+2732,incline dumbbell press,2/29/2020,45,8,5
+2733,cross cable fly,2/29/2020,30,12,1
+2734,cross cable fly,2/29/2020,30,12,2
+2735,cross cable fly,2/29/2020,30,12,3
+2736,cross cable fly,2/29/2020,30,12,4
+2737,cross cable fly,2/29/2020,30,12,5
+2738,tricep pushdown,2/29/2020,80,12,1
+2739,tricep pushdown,2/29/2020,80,12,2
+2740,tricep pushdown,2/29/2020,80,12,3
+2741,tricep pushdown,2/29/2020,80,12,4
+2742,tricep pushdown,2/29/2020,80,12,5
+2743,ab roller,2/29/2020,0,12,1
+2744,ab roller,2/29/2020,0,12,2
+2745,ab roller,2/29/2020,0,12,3
+2746,ab roller,2/29/2020,0,12,4
+2747,ab roller,2/29/2020,0,12,5
