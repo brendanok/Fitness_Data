@@ -7,7 +7,8 @@ People motivate themselves in all sorts of ways. For me, that would be visually 
 ### Table of Contents
 
 - [Data Collection and Manipulation](#Data-Collection-and-Manipulation)
-
+- [Querying and Analysis](#Querying-and-Analysis)
+- [Results](#Results)
 
 ### Data Collection and Manipulation
 
@@ -131,6 +132,7 @@ FROM algo_CTE;
 Here's the results of some selected columns from the above view:
 ![pic](https://raw.githubusercontent.com/brendanok/Fitness_Data/master/images/score.png)
 
+### Results
 So after throwing this into PowerBI, I created this interactive report that serves as a tracker. As long as things are fed into the database, the queries will update and the report will update as well.
 ![pic](https://raw.githubusercontent.com/brendanok/Fitness_Data/master/images/powerbi.PNG)
 
