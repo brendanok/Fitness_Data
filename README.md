@@ -4,6 +4,10 @@
 I thought it'd be interesting to start logging all my exercises to keep track and hopefully use it to improve. I [recorded](https://github.com/brendanok/Fitness_Data/blob/master/lift.csv) every single workout I did in the gym since September 2019 and used it to make a scoring metric for my workouts and a PowerBI dashboard to throw the data onto. Fitness trackers like Fitbits and Apple Watches keep track of measurable health data and you can compete with friends. I thought it'd be fun to make an algorithm that puts a score to my exercises in order to make sort of a universal measure of how well I worked out on a particular day. I made that along with the general recorded data the basis of my project. All the data powering the Power BI dashboard is housed in a personal MS SQL Server on my computer. The dashboard will only be up as long as I still have access to it (work license), but check out this [video](https://youtu.be/eMbl2M5_ISM) to see how it works. 
 
 People motivate themselves in all sorts of ways. For me, that would be visually stimulating graphs and progress logs that show my stats. 
+### Table of Contents
+
+- [Data Collection and Manipulation](#Data Collection and Manipulation)
+
 
 ### Data Collection and Manipulation
 
