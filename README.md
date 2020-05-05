@@ -6,7 +6,7 @@ I thought it'd be interesting to start logging all my exercises to keep track an
 People motivate themselves in all sorts of ways. For me, that would be visually stimulating graphs and progress logs that show my stats. 
 ### Table of Contents
 
-- [Data Collection and Manipulation](#Data Collection and Manipulation)
+- [Data Collection and Manipulation](#Data-Collection-and-Manipulation)
 
 
 ### Data Collection and Manipulation
