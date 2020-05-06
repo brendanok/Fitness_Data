@@ -145,6 +145,8 @@ The table above shows the workout score achieved for each day with the criteria 
  cross cable fly    : 39   1/4/2020 :  6   Max.   :9.000   Max.   :250.00   Max.   :1620.0   Max.   :7.000   Max.   :5.000   Max.   :3214  
  (Other)            :310   (Other)  :515        
 ```
+Overall I'm pretty happy with the results. not surprisingly, doing a high volume amount of value workouts in a day gets me the most points, but if I'm doing low value workouts and only doing a little bit of them, then I should be getting a low yield. See below for top 10 and bottom 10 scoring workouts.
+![pic](https://raw.githubusercontent.com/brendanok/Fitness_Data/master/images/TOP_BOTTOM.PNG)
 
 After throwing this into PowerBI, I created this interactive report that serves I guess as a lift tracker. As long as things are fed into the database, the queries will update and the report will update as well.
 ![pic](https://raw.githubusercontent.com/brendanok/Fitness_Data/master/images/powerbi.PNG)
