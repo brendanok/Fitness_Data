@@ -148,7 +148,7 @@ The table above shows the workout score achieved for each day with the criteria 
 Overall I'm pretty happy with the results. not surprisingly, doing a high volume amount of value workouts in a day gets me the most points, but if I'm doing low value workouts and only doing a little bit of them, then I should be getting a low yield. See below for top 10 and bottom 10 scoring workouts.
 ![pic](https://raw.githubusercontent.com/brendanok/Fitness_Data/master/images/TOP_BOTTOM.PNG)
 
-After throwing this into PowerBI, I created this interactive report that serves I guess as a lift tracker. As long as things are fed into the database, the queries will update and the report will update as well.
+After throwing this into PowerBI, I created this interactive report that serves I guess as a lift tracker. As long as things are fed into the database, the queries will update and the report will update as well. Just by looking at the graph, I can tell that it's up and down. Is it on certain splits that I'm slacking on? Maybe I'm not doing enough on back day, or I shouldn't skip certain workouts,  or maybe the algorithm favors certain things, etc. This dashboard does give me insight into what I'm doing on certain days compared to others in terms of the volume of sets and reps that I'm doing that I really wouldn't have considered before.
 ![pic](https://raw.githubusercontent.com/brendanok/Fitness_Data/master/images/powerbi.PNG)
 
 Unfortunately, I can't share the report itself since it's hosted using a work license, but click [here](https://youtu.be/eMbl2M5_ISM) for a video demo of the dashboard. 
