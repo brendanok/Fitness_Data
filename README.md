@@ -156,7 +156,6 @@ Unfortunately, I can't share the report itself since it's hosted using a work li
 
 ### Miscellaneous
 
-Check below:
 - [SQL queries](https://github.com/brendanok/Fitness_Data/blob/master/Fitness_q.sql)
 - [lift.csv](https://github.com/brendanok/Fitness_Data/blob/master/lift.csv)
 - [group.csv](https://github.com/brendanok/Fitness_Data/blob/master/group.csv)
