@@ -12,6 +12,7 @@ People motivate themselves in all sorts of ways. For me, that would be visually 
 - [Results](#Results)
 - [Miscellaneous](#Miscellaneous)
 
+---
 ### Data Collection and Manipulation
 
 I recorded date, workout, reps, and sets in my phone's Notes app like this:
