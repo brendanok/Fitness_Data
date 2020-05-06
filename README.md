@@ -10,6 +10,7 @@ People motivate themselves in all sorts of ways. For me, that would be visually 
 - [Data Collection and Manipulation](#Data-Collection-and-Manipulation)
 - [Querying and Analysis](#Querying-and-Analysis)
 - [Results](#Results)
+- [Miscellaneous](#Miscellaneous)
 
 ### Data Collection and Manipulation
 
@@ -50,7 +51,7 @@ The columns are pretty self explanatory:
 >* <b>reps:</b> number of repetitions for the set
 >* <b>set:</b> which set of the workout
 
-I also included a separate table in a file called "groups.csv" that I use for extra information regarding the workouts:
+I also included a separate table in a file called "group.csv" that I use for extra information regarding the workouts:
 
 >* <b>exercise:</b> name of the workout
 >* <b>first:</b> primary muscle group(s) targeted
@@ -153,3 +154,9 @@ After throwing this into PowerBI, I created this interactive report that serves 
 
 Unfortunately, I can't share the report itself since it's hosted using a work license, but click [here](https://youtu.be/eMbl2M5_ISM) for a video demo of the dashboard. 
 
+### Miscellaneous
+
+Check below:
+- [SQL queries](https://github.com/brendanok/Fitness_Data/blob/master/Fitness_q.sql)
+- [lift.csv](https://github.com/brendanok/Fitness_Data/blob/master/lift.csv)
+- [group.csv](https://github.com/brendanok/Fitness_Data/blob/master/group.csv)
